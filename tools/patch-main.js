@@ -1,8 +1,10 @@
 // 主进程文件 UI 文本汉化补丁
+// 用法: node tools/patch-main.js [根目录]  (默认 extracted)
 const fs = require('fs');
+const ROOT = process.argv[2] || 'extracted';
 
 const patches = {
-  'extracted/out/menu.js': [
+  [ROOT + '/out/menu.js']: [
     ['"No Recent Files"', '"无最近文件"'],
     ['"Clear Recent Files"', '"清除最近文件"'],
     ['"Open Recent"', '"打开最近"'],
@@ -55,7 +57,7 @@ const patches = {
     ['"Images & Figma"', '"图像和 Figma 文件"'],
     ['"All Files"', '"所有文件"'],
   ],
-  'extracted/out/app.js': [
+  [ROOT + '/out/app.js']: [
     ['"Select Workspace Folder"', '"选择工作区文件夹"'],
     ['"Select Claude Executable"', '"选择 Claude 可执行文件"'],
     ['"Sign-in was not completed."', '"登录未完成。"'],
@@ -66,7 +68,7 @@ const patches = {
     ['"Open .pen file"', '"打开 .pen 文件"'],
     ['label: "New File"', 'label: "新建文件"'],
   ],
-  'extracted/out/new-file-window.js': [
+  [ROOT + '/out/new-file-window.js']: [
     ['title: "Blank"', 'title: "空白画布"'],
     ['"Start from an empty canvas"', '"从空白画布开始"'],
     ['"shadcn/ui component kit"', '"shadcn/ui 组件库"'],
@@ -77,7 +79,7 @@ const patches = {
     ['"This permanently deletes the file from your computer. This action can\'t be undone."', '"这将从你的电脑上永久删除该文件。此操作无法撤销。"'],
     ['title: "New File"', 'title: "新建文件"'],
   ],
-  'extracted/out/desktop-resource-device.js': [
+  [ROOT + '/out/desktop-resource-device.js']: [
     ['"A snapshot upload is still in progress."', '"快照上传仍在进行中。"'],
     ['"Quitting now will leave an incomplete snapshot. The share link may not work until you publish again."', '"现在退出将留下不完整的快照。在重新发布之前，分享链接可能无法使用。"'],
     ['["Stay", "Quit Anyway"]', '["留下", "仍然退出"]'],

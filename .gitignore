@@ -1,5 +1,7 @@
 node_modules/
 extracted/
+win-extracted/
+win-dl/
 build/
 .DS_Store
 
@@ -9,3 +11,5 @@ backup/app.asar.unpacked.orig/
 work/*.orig
 *.asar
 *.asar.unpacked/
+*.exe
+*.7z
