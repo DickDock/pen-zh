@@ -1,0 +1,1595 @@
+{"id":0,"en":"Surveys are already being loaded","keys":"error","count":1,"sentence":false}
+{"id":1,"en":"Most capable, higher cost","keys":"description","count":5,"sentence":false}
+{"id":2,"en":"Fast, balanced performance","keys":"description","count":2,"sentence":false}
+{"id":3,"en":"Fastest, lowest cost","keys":"description","count":1,"sentence":false}
+{"id":4,"en":"Default (Responsive)","keys":"label","count":1,"sentence":false}
+{"id":5,"en":"iPhone 16e","keys":"label","count":1,"sentence":false}
+{"id":6,"en":"iPhone 17","keys":"label","count":1,"sentence":false}
+{"id":7,"en":"iPhone Air","keys":"label","count":1,"sentence":false}
+{"id":8,"en":"iPhone 17 Pro","keys":"label","count":1,"sentence":false}
+{"id":9,"en":"iPhone 17 Pro Max","keys":"label","count":1,"sentence":false}
+{"id":10,"en":"Pixel 10","keys":"label","count":1,"sentence":false}
+{"id":11,"en":"Pixel 10 Pro","keys":"label","count":1,"sentence":false}
+{"id":12,"en":"Pixel 10 Pro XL","keys":"label","count":1,"sentence":false}
+{"id":13,"en":"Samsung Galaxy S26","keys":"label","count":1,"sentence":false}
+{"id":14,"en":"Galaxy Z Fold7 (Cover)","keys":"label","count":1,"sentence":false}
+{"id":15,"en":"iPad mini (A17 Pro)","keys":"label","count":1,"sentence":false}
+{"id":16,"en":"iPad Air 11-inch (M4)","keys":"label","count":1,"sentence":false}
+{"id":17,"en":"iPad Air 13-inch (M4)","keys":"label","count":1,"sentence":false}
+{"id":18,"en":"iPad Pro 11-inch (M5)","keys":"label","count":1,"sentence":false}
+{"id":19,"en":"iPad Pro 13-inch (M5)","keys":"label","count":1,"sentence":false}
+{"id":20,"en":"Surface Pro 12-inch","keys":"label","count":1,"sentence":false}
+{"id":21,"en":"Nest Hub","keys":"label","count":1,"sentence":false}
+{"id":22,"en":"Nest Hub Max","keys":"label","count":1,"sentence":false}
+{"id":23,"en":",r)})});e&&(this.removeMessageListener=e)}async handleMessage(e){switch(this.logger.debug(`Received ${e.type}: ${e.method}`,{id:e.id,hasPayload:!!e.payload}),e.type){case","keys":"message","count":1,"sentence":false}
+{"id":24,"en":"Unknown error","keys":"message","count":1,"sentence":false}
+{"id":25,"en":"Ship faster.","keys":"content","count":1,"sentence":false}
+{"id":26,"en":"Design at the speed of thought.","keys":"content","count":1,"sentence":false}
+{"id":27,"en":"Label","keys":"content","count":1,"sentence":false}
+{"id":28,"en":"Reports","keys":"content","count":1,"sentence":false}
+{"id":29,"en":"Tokens applied","keys":"content","count":1,"sentence":false}
+{"id":30,"en":"Account Details","keys":"content","count":1,"sentence":false}
+{"id":31,"en":"Manage your settings","keys":"content","count":1,"sentence":false}
+{"id":32,"en":"Item 1","keys":"content","count":1,"sentence":false}
+{"id":33,"en":"Dashboard","keys":"content,children","count":3,"sentence":false}
+{"id":34,"en":"Manage your account settings","keys":"content","count":1,"sentence":false}
+{"id":35,"en":"Submit","keys":"content","count":1,"sentence":false}
+{"id":36,"en":"John Doe","keys":"content","count":1,"sentence":false}
+{"id":37,"en":"joe.doe@example.com","keys":"content","count":1,"sentence":false}
+{"id":38,"en":"EMPTY","keys":"label","count":2,"sentence":false}
+{"id":39,"en":"WHITE","keys":"label","count":2,"sentence":false}
+{"id":40,"en":"Sprite","keys":"label","count":1,"sentence":false}
+{"id":41,"en":":is(h1, h2, h3, h4, h5, h6)","keys":"header","count":1,"sentence":false}
+{"id":42,"en":"input:is(:not([type!='']), [type=text])","keys":"text","count":1,"sentence":false}
+{"id":43,"en":"expected color hex string (#RRGGBBAA, #RRGGBB or #RGB), got ","keys":"message","count":2,"sentence":false}
+{"id":44,"en":"missing required property, got ","keys":"message","count":52,"sentence":false}
+{"id":45,"en":"expected string without slashes, got ","keys":"message","count":4,"sentence":false}
+{"id":46,"en":"expected sizing behavior (fit_content or fill_container, with optional fallback size like fit_content(100)), got ","keys":"message","count":2,"sentence":false}
+{"id":47,"en":"unexpected property, got ","keys":"message","count":41,"sentence":false}
+{"id":48,"en":"expected at least 1 items, got ","keys":"message","count":2,"sentence":false}
+{"id":49,"en":"expected at least 2 items, got ","keys":"message","count":1,"sentence":false}
+{"id":50,"en":"expected at most 4 items, got ","keys":"message","count":1,"sentence":false}
+{"id":51,"en":"expected one of: number, boolean, string, number[], got ","keys":"message","count":1,"sentence":false}
+{"id":52,"en":"expected either number[2] or object, got ","keys":"message","count":2,"sentence":false}
+{"id":53,"en":"expected slash-separated path of IDs, got ","keys":"message","count":2,"sentence":false}
+{"id":54,"en":"expected number, [vertical, horizontal], or [top, right, bottom, left], each value can be a number or variable, got ","keys":"message","count":6,"sentence":false}
+{"id":55,"en":"expected either false or string[], got ","keys":"message","count":2,"sentence":false}
+{"id":56,"en":"expected either number or number[2], got ","keys":"message","count":2,"sentence":false}
+{"id":57,"en":"Note","keys":"label","count":1,"sentence":false}
+{"id":58,"en":"Context","keys":"label,children","count":2,"sentence":false}
+{"id":59,"en":"Prompt","keys":"label","count":1,"sentence":false}
+{"id":60,"en":"Copy","keys":"content,label,description","count":4,"sentence":false}
+{"id":61,"en":"Run","keys":"content","count":1,"sentence":false}
+{"id":62,"en":"Export HTML","keys":"title,children","count":2,"sentence":false}
+{"id":63,"en":"Cut","keys":"label,description","count":4,"sentence":false}
+{"id":64,"en":"Paste","keys":"label,description,children","count":3,"sentence":false}
+{"id":65,"en":"Delete","keys":"label,description,children","count":4,"sentence":false}
+{"id":66,"en":"The document contained duplicate identifiers","keys":"description","count":1,"sentence":false}
+{"id":67,"en":"Relative paths (in the repo...)","keys":"label","count":1,"sentence":false}
+{"id":68,"en":"Absolute paths (on the disk)","keys":"label","count":1,"sentence":false}
+{"id":69,"en":"Embed assets (self-contained document)","keys":"label","count":1,"sentence":false}
+{"id":70,"en":"Complex image fill was rasterized and embedded as a WebP data URL.","keys":"message","count":1,"sentence":false}
+{"id":71,"en":"HTML + CSS","keys":"label","count":1,"sentence":false}
+{"id":72,"en":"HTML + Tailwind","keys":"label","count":1,"sentence":false}
+{"id":73,"en":"No script file selected","keys":"title","count":1,"sentence":false}
+{"id":74,"en":"An internal error occurred","keys":"title","count":2,"sentence":false}
+{"id":75,"en":"Composer","keys":"label","count":1,"sentence":false}
+{"id":76,"en":"Opus 4.7","keys":"label","count":3,"sentence":false}
+{"id":77,"en":"Sonnet 4.6","keys":"label","count":2,"sentence":false}
+{"id":78,"en":"Fable 5","keys":"label","count":1,"sentence":false}
+{"id":79,"en":"Opus 5","keys":"label","count":1,"sentence":false}
+{"id":80,"en":"Opus 4.8","keys":"label","count":1,"sentence":false}
+{"id":81,"en":"Opus 4.6","keys":"label","count":1,"sentence":false}
+{"id":82,"en":"Sonnet 5","keys":"label","count":1,"sentence":false}
+{"id":83,"en":"Haiku 4.5","keys":"label","count":1,"sentence":false}
+{"id":84,"en":"GPT 5.4","keys":"label","count":1,"sentence":false}
+{"id":85,"en":"GPT 5.5","keys":"label","count":1,"sentence":false}
+{"id":86,"en":"GPT 5.3 Codex","keys":"label","count":1,"sentence":false}
+{"id":87,"en":"GPT 5.1 Codex Mini","keys":"label","count":1,"sentence":false}
+{"id":88,"en":"All systems operational","keys":"description","count":1,"sentence":false}
+{"id":89,"en":"Agent stopped by user.","keys":"text","count":1,"sentence":false}
+{"id":90,"en":"New Agent","keys":"title,content","count":3,"sentence":false}
+{"id":91,"en":"Copy as","keys":"label","count":1,"sentence":false}
+{"id":92,"en":"Copy as HTML + CSS","keys":"label","count":1,"sentence":false}
+{"id":93,"en":"Copy as HTML + Tailwind","keys":"label","count":1,"sentence":false}
+{"id":94,"en":"Copy as JSON","keys":"label","count":1,"sentence":false}
+{"id":95,"en":"Copy as PNG","keys":"label,description","count":2,"sentence":false}
+{"id":96,"en":"Bring to Front","keys":"label","count":1,"sentence":false}
+{"id":97,"en":"Send to Back","keys":"label","count":1,"sentence":false}
+{"id":98,"en":"Group selection","keys":"label","count":1,"sentence":false}
+{"id":99,"en":"Frame selection","keys":"label,description","count":2,"sentence":false}
+{"id":100,"en":"Ungroup","keys":"label,description","count":2,"sentence":false}
+{"id":101,"en":"Add flex layout","keys":"label,description","count":2,"sentence":false}
+{"id":102,"en":"Remove flex layout","keys":"label,description","count":2,"sentence":false}
+{"id":103,"en":"Create Component","keys":"label","count":1,"sentence":false}
+{"id":104,"en":"Detach Component","keys":"label","count":1,"sentence":false}
+{"id":105,"en":"Go to component","keys":"label,tooltip","count":2,"sentence":false}
+{"id":106,"en":"Detach Instance","keys":"label","count":1,"sentence":false}
+{"id":107,"en":"Make slot","keys":"label","count":1,"sentence":false}
+{"id":108,"en":"Remove slot","keys":"label,content","count":2,"sentence":false}
+{"id":109,"en":"Flip horizontal","keys":"label,description,tooltip","count":3,"sentence":false}
+{"id":110,"en":"Flip vertical","keys":"label,description,tooltip","count":3,"sentence":false}
+{"id":111,"en":"Settings","keys":"label,content","count":4,"sentence":false}
+{"id":112,"en":"Show pixel grid","keys":"label","count":2,"sentence":false}
+{"id":113,"en":"Snap to pixel grid","keys":"label,description","count":3,"sentence":false}
+{"id":114,"en":"Snap to objects","keys":"label","count":2,"sentence":false}
+{"id":115,"en":"Open settings…","keys":"label","count":1,"sentence":false}
+{"id":116,"en":"The integrated browser is not available in this environment. It requires the pen.dev desktop app.","keys":"error","count":1,"sentence":false}
+{"id":117,"en":"Generating code from .pen files","keys":"description","count":1,"sentence":false}
+{"id":118,"en":"Composing screens with design system components","keys":"description","count":1,"sentence":false}
+{"id":119,"en":"Designing landing pages and promotional websites","keys":"description","count":1,"sentence":false}
+{"id":120,"en":"Designing mobile apps","keys":"description","count":1,"sentence":false}
+{"id":121,"en":"Designing presentation slides","keys":"description","count":1,"sentence":false}
+{"id":122,"en":"Working with tables and dashboards","keys":"description","count":1,"sentence":false}
+{"id":123,"en":"Tailwind CSS v4 implementation","keys":"description","count":1,"sentence":false}
+{"id":124,"en":"Designing web apps","keys":"description","count":1,"sentence":false}
+{"id":125,"en":"Guides","keys":"heading","count":1,"sentence":false}
+{"id":126,"en":"Styles","keys":"heading,label","count":3,"sentence":false}
+{"id":127,"en":"Failed to execute spawn-agents!","keys":"message","count":1,"sentence":false}
+{"id":128,"en":"The browser tool failed.","keys":"message","count":1,"sentence":false}
+{"id":129,"en":"The document is read-only.","keys":"error","count":1,"sentence":false}
+{"id":130,"en":"Failed to get guidelines","keys":"message","count":1,"sentence":false}
+{"id":131,"en":"Failed to get editor state!","keys":"message","count":1,"sentence":false}
+{"id":132,"en":"Failed to save","keys":"message","count":1,"sentence":false}
+{"id":133,"en":",t.id),(r=window.electronAPI)==null||r.sendMessage(t)});if(!n||!e)throw new Error(","keys":"message","count":1,"sentence":false}
+{"id":134,"en":"Flex","keys":"label","count":4,"sentence":false}
+{"id":135,"en":"Flex grow","keys":"label","count":1,"sentence":false}
+{"id":136,"en":"Flex shrink","keys":"label","count":1,"sentence":false}
+{"id":137,"en":"Flex basis","keys":"label","count":1,"sentence":false}
+{"id":138,"en":"Width","keys":"label","count":1,"sentence":false}
+{"id":139,"en":"Height","keys":"label","count":1,"sentence":false}
+{"id":140,"en":"Display","keys":"label","count":1,"sentence":false}
+{"id":141,"en":"Flex direction","keys":"label","count":1,"sentence":false}
+{"id":142,"en":"Justify content","keys":"label","count":1,"sentence":false}
+{"id":143,"en":"Align items","keys":"label","count":1,"sentence":false}
+{"id":144,"en":"Gap","keys":"label,children","count":2,"sentence":false}
+{"id":145,"en":"Layout","keys":"label","count":1,"sentence":false}
+{"id":146,"en":"X","keys":"label","count":1,"sentence":false}
+{"id":147,"en":"Y","keys":"label","count":1,"sentence":false}
+{"id":148,"en":"Position","keys":"label,title,text","count":4,"sentence":false}
+{"id":149,"en":"Fill","keys":"label,children,title","count":4,"sentence":false}
+{"id":150,"en":"Border","keys":"label","count":2,"sentence":false}
+{"id":151,"en":"Border color","keys":"label","count":1,"sentence":false}
+{"id":152,"en":"Radius","keys":"label","count":2,"sentence":false}
+{"id":153,"en":"Font family","keys":"label","count":1,"sentence":false}
+{"id":154,"en":"Color","keys":"label,children","count":5,"sentence":false}
+{"id":155,"en":"Font size","keys":"label","count":1,"sentence":false}
+{"id":156,"en":"Font weight","keys":"label","count":1,"sentence":false}
+{"id":157,"en":"Line height","keys":"label,text","count":2,"sentence":false}
+{"id":158,"en":"Typography","keys":"label,title","count":2,"sentence":false}
+{"id":159,"en":"Opacity","keys":"label","count":2,"sentence":false}
+{"id":160,"en":"Shadow","keys":"label","count":2,"sentence":false}
+{"id":161,"en":"Copy all styles","keys":"title","count":1,"sentence":false}
+{"id":162,"en":"Style","keys":"children","count":2,"sentence":false}
+{"id":163,"en":"Class","keys":"children","count":1,"sentence":false}
+{"id":164,"en":"View","keys":"label","count":1,"sentence":false}
+{"id":165,"en":"Home","keys":"label","count":1,"sentence":false}
+{"id":166,"en":"Clear All History","keys":"label","count":1,"sentence":false}
+{"id":167,"en":"Full Page","keys":"label","count":1,"sentence":false}
+{"id":168,"en":"Visible Area","keys":"label","count":1,"sentence":false}
+{"id":169,"en":"Preview Resolution","keys":"label","count":1,"sentence":false}
+{"id":170,"en":"Zoom In","keys":"label","count":1,"sentence":false}
+{"id":171,"en":"Zoom Out","keys":"label","count":1,"sentence":false}
+{"id":172,"en":"Zoom to 100%","keys":"label,description","count":3,"sentence":false}
+{"id":173,"en":"Empty Cache and Reload","keys":"label","count":1,"sentence":false}
+{"id":174,"en":"Show DevTools","keys":"label","count":1,"sentence":false}
+{"id":175,"en":"Pop Out to Separate Window","keys":"label","count":1,"sentence":false}
+{"id":176,"en":"Dock Back into the Editor","keys":"label","count":1,"sentence":false}
+{"id":177,"en":"Import failed.","keys":"message","count":2,"sentence":false}
+{"id":178,"en":"Screenshot failed.","keys":"message","count":1,"sentence":false}
+{"id":179,"en":"Back","keys":"label","count":1,"sentence":false}
+{"id":180,"en":"Forward","keys":"label","count":1,"sentence":false}
+{"id":181,"en":"Enter a URL","keys":"placeholder","count":1,"sentence":false}
+{"id":182,"en":"Zoom and device settings","keys":"title","count":1,"sentence":false}
+{"id":183,"en":"Import","keys":"children","count":2,"sentence":false}
+{"id":184,"en":"Screenshot","keys":"content","count":1,"sentence":false}
+{"id":185,"en":"More options","keys":"label,title","count":2,"sentence":false}
+{"id":186,"en":"Close Browser View","keys":"label,title","count":2,"sentence":false}
+{"id":187,"en":"Drag to clip import height, double-click to import the full page","keys":"title","count":1,"sentence":false}
+{"id":188,"en":"Run All","keys":"label","count":1,"sentence":false}
+{"id":189,"en":"Next","keys":"label","count":1,"sentence":false}
+{"id":190,"en":"Import from the web","keys":"children","count":1,"sentence":false}
+{"id":191,"en":"Open a live site or your localhost dev server, then bring it onto the canvas as editable layers.","keys":"children","count":1,"sentence":false}
+{"id":192,"en":"Import the full page","keys":"title","count":1,"sentence":false}
+{"id":193,"en":"Reproduce it as frames, text, and images.","keys":"text","count":1,"sentence":false}
+{"id":194,"en":"Import an element","keys":"title","count":1,"sentence":false}
+{"id":195,"en":"Pick one element instead of the whole page.","keys":"text","count":1,"sentence":false}
+{"id":196,"en":"Import a screenshot","keys":"title","count":1,"sentence":false}
+{"id":197,"en":"Drop a PNG onto the canvas or send it to the agent.","keys":"text","count":1,"sentence":false}
+{"id":198,"en":"Clear All","keys":"children","count":1,"sentence":false}
+{"id":199,"en":"Privacy is our priority. We don't see your login credentials or session data. This is a Chromium-based browser running locally on your machine.","keys":"children","count":1,"sentence":false}
+{"id":200,"en":"Exactly one of shareId or fileToken is required","keys":"message","count":3,"sentence":false}
+{"id":201,"en":"rootPath must match a file entry path","keys":"message","count":1,"sentence":false}
+{"id":202,"en":"Duplicate export paths","keys":"message","count":1,"sentence":false}
+{"id":203,"en":"fileToken is required when creating a new share link","keys":"message","count":1,"sentence":false}
+{"id":204,"en":"Close","keys":"children","count":1,"sentence":false}
+{"id":205,"en":"Missing dependencies","keys":"children","count":1,"sentence":false}
+{"id":206,"en":"Cancel","keys":"children","count":11,"sentence":false}
+{"id":207,"en":"Loading","keys":"children","count":1,"sentence":false}
+{"id":208,"en":"Failed to upload share assets","keys":"message","count":1,"sentence":false}
+{"id":209,"en":"Design Libraries","keys":"label","count":1,"sentence":false}
+{"id":210,"en":"Images","keys":"label","count":1,"sentence":false}
+{"id":211,"en":"Fonts","keys":"label","count":1,"sentence":false}
+{"id":212,"en":"Scripts","keys":"label","count":3,"sentence":false}
+{"id":213,"en":"Shaders","keys":"label","count":3,"sentence":false}
+{"id":214,"en":"Dependencies","keys":"children","count":1,"sentence":false}
+{"id":215,"en":"Share a snapshot","keys":"title","count":1,"sentence":false}
+{"id":216,"en":"Snapshot shared","keys":"title","count":2,"sentence":false}
+{"id":217,"en":"Your share link was created, but the snapshot may be incomplete.","keys":"description","count":1,"sentence":false}
+{"id":218,"en":"This share is in another workspace","keys":"title","count":1,"sentence":false}
+{"id":219,"en":"Failed to get share status","keys":"message","count":1,"sentence":false}
+{"id":220,"en":"Failed to create share link","keys":"message","count":1,"sentence":false}
+{"id":221,"en":"HTML Files","keys":"description","count":1,"sentence":false}
+{"id":222,"en":"Duplicate","keys":"description","count":1,"sentence":false}
+{"id":223,"en":"Group","keys":"description","count":1,"sentence":false}
+{"id":224,"en":"Undo","keys":"description","count":1,"sentence":false}
+{"id":225,"en":"Redo","keys":"description","count":1,"sentence":false}
+{"id":226,"en":"Create component","keys":"description","count":1,"sentence":false}
+{"id":227,"en":"Detach instance","keys":"description,tooltip","count":2,"sentence":false}
+{"id":228,"en":"Replace inside instance","keys":"description","count":1,"sentence":false}
+{"id":229,"en":"Copy as HTML","keys":"description","count":1,"sentence":false}
+{"id":230,"en":"Align top","keys":"description,label","count":2,"sentence":false}
+{"id":231,"en":"Align left","keys":"description,label","count":2,"sentence":false}
+{"id":232,"en":"Align bottom","keys":"description,label","count":2,"sentence":false}
+{"id":233,"en":"Align right","keys":"description,label","count":2,"sentence":false}
+{"id":234,"en":"Align center","keys":"description,label","count":2,"sentence":false}
+{"id":235,"en":"Align middle","keys":"description,label","count":2,"sentence":false}
+{"id":236,"en":"Bring forward","keys":"description","count":1,"sentence":false}
+{"id":237,"en":"Send backward","keys":"description","count":1,"sentence":false}
+{"id":238,"en":"Bring to front","keys":"description","count":1,"sentence":false}
+{"id":239,"en":"Send to back","keys":"description","count":1,"sentence":false}
+{"id":240,"en":"Save","keys":"description,children","count":3,"sentence":false}
+{"id":241,"en":"New file","keys":"description","count":1,"sentence":false}
+{"id":242,"en":"Open file","keys":"description","count":1,"sentence":false}
+{"id":243,"en":"Pixel grid","keys":"description","count":1,"sentence":false}
+{"id":244,"en":"Keyboard shortcuts","keys":"description","count":1,"sentence":false}
+{"id":245,"en":"Toggle chat","keys":"description","count":1,"sentence":false}
+{"id":246,"en":"New chat tab","keys":"description","count":1,"sentence":false}
+{"id":247,"en":"Next chat tab","keys":"description","count":1,"sentence":false}
+{"id":248,"en":"Previous chat tab","keys":"description","count":1,"sentence":false}
+{"id":249,"en":"Prompt history","keys":"description","count":1,"sentence":false}
+{"id":250,"en":"Move","keys":"description,content","count":2,"sentence":false}
+{"id":251,"en":"Hand","keys":"description,label","count":2,"sentence":false}
+{"id":252,"en":"Zoom (hold)","keys":"description","count":1,"sentence":false}
+{"id":253,"en":"Frame","keys":"description,label","count":2,"sentence":false}
+{"id":254,"en":"Text","keys":"description,label","count":2,"sentence":false}
+{"id":255,"en":"Sticky note","keys":"description","count":1,"sentence":false}
+{"id":256,"en":"Rectangle","keys":"description,label","count":2,"sentence":false}
+{"id":257,"en":"Ellipse","keys":"description,text,label","count":3,"sentence":false}
+{"id":258,"en":"Pen","keys":"description,label","count":4,"sentence":false}
+{"id":259,"en":"Select points","keys":"description,label","count":2,"sentence":false}
+{"id":260,"en":"Edit points of a selected shape","keys":"description","count":1,"sentence":false}
+{"id":261,"en":"Finish editing","keys":"description","count":1,"sentence":false}
+{"id":262,"en":"Select all points","keys":"description","count":1,"sentence":false}
+{"id":263,"en":"Duplicate selection","keys":"description","count":1,"sentence":false}
+{"id":264,"en":"Drag off a duplicate","keys":"description","count":1,"sentence":false}
+{"id":265,"en":"Connect selected points","keys":"description","count":1,"sentence":false}
+{"id":266,"en":"Nudge selection (⇧ for 10px)","keys":"description","count":1,"sentence":false}
+{"id":267,"en":"Delete selected points, segments, or handles","keys":"description","count":1,"sentence":false}
+{"id":268,"en":"Add a point","keys":"description","count":1,"sentence":false}
+{"id":269,"en":"Move a point without drawing","keys":"description","count":1,"sentence":false}
+{"id":270,"en":"Insert point on segment","keys":"description","count":1,"sentence":false}
+{"id":271,"en":"Toggle smooth and corner","keys":"description","count":1,"sentence":false}
+{"id":272,"en":"Pull symmetric handles","keys":"description","count":1,"sentence":false}
+{"id":273,"en":"Break handle symmetry","keys":"description","count":1,"sentence":false}
+{"id":274,"en":"Bend into a curve","keys":"description","count":1,"sentence":false}
+{"id":275,"en":"Bend without moving neighbors","keys":"description","count":1,"sentence":false}
+{"id":276,"en":"Straighten segment","keys":"description","count":1,"sentence":false}
+{"id":277,"en":"Select all connected points","keys":"description","count":1,"sentence":false}
+{"id":278,"en":"Select all","keys":"description","count":1,"sentence":false}
+{"id":279,"en":"Deselect","keys":"description","count":1,"sentence":false}
+{"id":280,"en":"Select children","keys":"description","count":1,"sentence":false}
+{"id":281,"en":"Select parent","keys":"description","count":1,"sentence":false}
+{"id":282,"en":"Select","keys":"description","count":1,"sentence":false}
+{"id":283,"en":"Add to selection","keys":"description","count":1,"sentence":false}
+{"id":284,"en":"Deep select","keys":"description","count":1,"sentence":false}
+{"id":285,"en":"Zoom","keys":"description","count":1,"sentence":false}
+{"id":286,"en":"Zoom in","keys":"description,title,label","count":3,"sentence":false}
+{"id":287,"en":"Zoom out","keys":"description,title,label","count":3,"sentence":false}
+{"id":288,"en":"Zoom to fit","keys":"description,label","count":2,"sentence":false}
+{"id":289,"en":"Zoom to selection","keys":"description,label","count":2,"sentence":false}
+{"id":290,"en":"Zoom in at pointer","keys":"description","count":1,"sentence":false}
+{"id":291,"en":"Zoom out at pointer","keys":"description","count":1,"sentence":false}
+{"id":292,"en":"Zoom to region","keys":"description","count":1,"sentence":false}
+{"id":293,"en":"Pan","keys":"description","count":1,"sentence":false}
+{"id":294,"en":"Pan horizontally","keys":"description","count":1,"sentence":false}
+{"id":295,"en":"Pan by dragging","keys":"description","count":2,"sentence":false}
+{"id":296,"en":"App","keys":"label","count":1,"sentence":false}
+{"id":297,"en":"Tools","keys":"label","count":1,"sentence":false}
+{"id":298,"en":"Design","keys":"label","count":1,"sentence":false}
+{"id":299,"en":"Arrange","keys":"label","count":1,"sentence":false}
+{"id":300,"en":"Selection","keys":"label","count":1,"sentence":false}
+{"id":301,"en":"Navigation","keys":"label","count":1,"sentence":false}
+{"id":302,"en":"Path","keys":"label,children","count":2,"sentence":false}
+{"id":303,"en":"Keyboard Shortcuts","keys":"children,content","count":2,"sentence":false}
+{"id":304,"en":"Browser","keys":"title","count":1,"sentence":false}
+{"id":305,"en":"What to do: load-page, import-to-canvas, screenshot-to-canvas, return-element, or return-screenshot.","keys":"description","count":1,"sentence":false}
+{"id":306,"en":"An optional file path to access a .pen file.","keys":"description","count":3,"sentence":false}
+{"id":307,"en":"What to act on (default full-page).","keys":"description","count":1,"sentence":false}
+{"id":308,"en":"Modify pencil documents","keys":"title","count":1,"sentence":false}
+{"id":309,"en":"The id of the failed snippet to patch, as printed in that call's failure message. Send it only together with `edits`, and always use a valid editId that is referencing a failed execute call. Never send it alongside `input`.","keys":"description","count":1,"sentence":false}
+{"id":310,"en":"When an execute call fails, ALWAYS retry with this instead of resending the snippet in `input`. Each edit replaces `find` with `replace` in the failed snippet, then the patched snippet re-runs from scratch. Edits apply in order: each `find` must match the snippet as already modified by the preceding edits. Requires `editId`; omit `input` when using it. If the patched snippet fails again, keep fixing it with further `edits` under the same editId - `find` must then match the already-patched snippet.","keys":"description","count":1,"sentence":false}
+{"id":311,"en":"Replace every occurrence instead of requiring a unique match.","keys":"description","count":1,"sentence":false}
+{"id":312,"en":"Exact text in the failed snippet to replace. Must match exactly once unless `all` is true.","keys":"description","count":1,"sentence":false}
+{"id":313,"en":"The replacement text.","keys":"description","count":1,"sentence":false}
+{"id":314,"en":"The JavaScript snippet to execute. Required unless `edits` is provided.","keys":"description","count":1,"sentence":false}
+{"id":315,"en":"Got app state","keys":"title","count":1,"sentence":false}
+{"id":316,"en":"Include the general instructions about working with the the canvas editor","keys":"description","count":1,"sentence":false}
+{"id":317,"en":"Include the .pen file schema","keys":"description","count":1,"sentence":false}
+{"id":318,"en":"Include the instructions about working with scripts and shaders in the canvas editor, use it when you know you want to enrich designs with scripts or shaders","keys":"description","count":1,"sentence":false}
+{"id":319,"en":"Checked guidelines","keys":"title","count":1,"sentence":false}
+{"id":320,"en":"Guideline category","keys":"description","count":1,"sentence":false}
+{"id":321,"en":"Guideline name from the category listing","keys":"description","count":1,"sentence":false}
+{"id":322,"en":"Key-value pairs for required params returned in step 2","keys":"description","count":1,"sentence":false}
+{"id":323,"en":"Started agents","keys":"title","count":1,"sentence":false}
+{"id":324,"en":"The required config for the extra agents that will be spawned and executed in parallel alongside the current agent.","keys":"description","count":1,"sentence":false}
+{"id":325,"en":"The valid node IDs in the document in which the designer agent should accomplish the given task. Make sure to always specify at least one node ID to work in.","keys":"description","count":1,"sentence":false}
+{"id":326,"en":"The prompt for the designer agent to run.","keys":"description","count":1,"sentence":false}
+{"id":327,"en":"You can't undo this action. Components and variables in this file will become available to add to other files.","keys":"children","count":1,"sentence":false}
+{"id":328,"en":"Turn into a library","keys":"children","count":1,"sentence":false}
+{"id":329,"en":"Locate the missing library?","keys":"children","count":1,"sentence":false}
+{"id":330,"en":"Remove imported library?","keys":"children","count":1,"sentence":false}
+{"id":331,"en":"Would you like to import this library into the current document? This will preserve the pasted objects as instances of the library's reusable components.","keys":"children","count":1,"sentence":false}
+{"id":332,"en":"No, paste verbatim copies","keys":"children","count":1,"sentence":false}
+{"id":333,"en":"The selected library is already imported!","keys":"description","count":1,"sentence":false}
+{"id":334,"en":"The selected file is not a Pencil library!","keys":"description","count":1,"sentence":false}
+{"id":335,"en":"The selected file wasn't a Pencil library","keys":"description","count":1,"sentence":false}
+{"id":336,"en":"This file is a library","keys":"children","count":1,"sentence":false}
+{"id":337,"en":"You can now add it to other files. Changes to components and variables in this file will update everywhere you use them.","keys":"children","count":1,"sentence":false}
+{"id":338,"en":"Your Libraries","keys":"children","count":1,"sentence":false}
+{"id":339,"en":"Libraries by Pencil.dev","keys":"children","count":1,"sentence":false}
+{"id":340,"en":"Turn this file into a library","keys":"children","count":1,"sentence":false}
+{"id":341,"en":"These variables already exist in this document with a different value. Choose which value to keep for each.","keys":"children","count":1,"sentence":false}
+{"id":342,"en":"Use existing","keys":"children","count":1,"sentence":false}
+{"id":343,"en":"Add renamed","keys":"children","count":1,"sentence":false}
+{"id":344,"en":"Alignment","keys":"title,children,placeholder","count":3,"sentence":false}
+{"id":345,"en":"Pick color from screen","keys":"content","count":1,"sentence":false}
+{"id":346,"en":"RGBA","keys":"children","count":1,"sentence":false}
+{"id":347,"en":"HEX","keys":"children","count":1,"sentence":false}
+{"id":348,"en":"CSS","keys":"children,label","count":2,"sentence":false}
+{"id":349,"en":"HSL","keys":"children","count":1,"sentence":false}
+{"id":350,"en":"None","keys":"children,label","count":2,"sentence":false}
+{"id":351,"en":"Appearance","keys":"title,children","count":2,"sentence":false}
+{"id":352,"en":"Edit corners individually","keys":"tooltip","count":1,"sentence":false}
+{"id":353,"en":"Polygon","keys":"text,label","count":2,"sentence":false}
+{"id":354,"en":"Code","keys":"title","count":1,"sentence":false}
+{"id":355,"en":"Code export settings","keys":"tooltip","count":1,"sentence":false}
+{"id":356,"en":"Export Settings","keys":"children","count":1,"sentence":false}
+{"id":357,"en":"Assets","keys":"children","count":1,"sentence":false}
+{"id":358,"en":"Include HTML scaffold","keys":"children","count":1,"sentence":false}
+{"id":359,"en":"Include layer names","keys":"children","count":1,"sentence":false}
+{"id":360,"en":"Include layer IDs","keys":"children","count":1,"sentence":false}
+{"id":361,"en":"Copy HTML","keys":"content,children","count":2,"sentence":false}
+{"id":362,"en":"Import Web via Browser","keys":"children","count":1,"sentence":false}
+{"id":363,"en":"Normal","keys":"label","count":1,"sentence":false}
+{"id":364,"en":"Darken","keys":"label","count":1,"sentence":false}
+{"id":365,"en":"Multiply","keys":"label","count":1,"sentence":false}
+{"id":366,"en":"Color Burn","keys":"label","count":1,"sentence":false}
+{"id":367,"en":"Linear Burn","keys":"label","count":1,"sentence":false}
+{"id":368,"en":"Lighten","keys":"label","count":1,"sentence":false}
+{"id":369,"en":"Screen","keys":"label","count":1,"sentence":false}
+{"id":370,"en":"Color Dodge","keys":"label","count":1,"sentence":false}
+{"id":371,"en":"Linear Dodge","keys":"label","count":1,"sentence":false}
+{"id":372,"en":"Overlay","keys":"label","count":1,"sentence":false}
+{"id":373,"en":"Soft Light","keys":"label","count":1,"sentence":false}
+{"id":374,"en":"Hard Light","keys":"label","count":1,"sentence":false}
+{"id":375,"en":"Difference","keys":"label","count":1,"sentence":false}
+{"id":376,"en":"Exclusion","keys":"label","count":1,"sentence":false}
+{"id":377,"en":"Hue","keys":"label","count":1,"sentence":false}
+{"id":378,"en":"Saturation","keys":"label","count":1,"sentence":false}
+{"id":379,"en":"Luminosity","keys":"label","count":1,"sentence":false}
+{"id":380,"en":"Blend mode","keys":"tooltip","count":1,"sentence":false}
+{"id":381,"en":"Offset","keys":"children","count":1,"sentence":false}
+{"id":382,"en":"Blur","keys":"children","count":2,"sentence":false}
+{"id":383,"en":"Unknown","keys":"children","count":1,"sentence":false}
+{"id":384,"en":"Remove effect","keys":"tooltip","count":1,"sentence":false}
+{"id":385,"en":"Mixed effects","keys":"children","count":1,"sentence":false}
+{"id":386,"en":"Add effect","keys":"tooltip","count":1,"sentence":false}
+{"id":387,"en":"Effects","keys":"title","count":1,"sentence":false}
+{"id":388,"en":"High","keys":"label","count":1,"sentence":false}
+{"id":389,"en":"Medium","keys":"label","count":4,"sentence":false}
+{"id":390,"en":"Low","keys":"label","count":2,"sentence":false}
+{"id":391,"en":"Lossless","keys":"label","count":1,"sentence":false}
+{"id":392,"en":"Export","keys":"title","count":1,"sentence":false}
+{"id":393,"en":"PNG","keys":"children","count":1,"sentence":false}
+{"id":394,"en":"JPEG","keys":"children","count":1,"sentence":false}
+{"id":395,"en":"WEBP","keys":"children","count":1,"sentence":false}
+{"id":396,"en":"PDF","keys":"children","count":1,"sentence":false}
+{"id":397,"en":"Quality","keys":"children","count":1,"sentence":false}
+{"id":398,"en":"Layers will be exported as pages in a single PDF. Pages are sorted in the order they were selected.","keys":"children","count":1,"sentence":false}
+{"id":399,"en":"Geist","keys":"body","count":26,"sentence":false}
+{"id":400,"en":"Inter","keys":"body","count":21,"sentence":false}
+{"id":401,"en":"Newsreader","keys":"body","count":5,"sentence":false}
+{"id":402,"en":"Featured","keys":"label","count":1,"sentence":false}
+{"id":403,"en":"Design Systems","keys":"label,children","count":3,"sentence":false}
+{"id":404,"en":"Copy as Fill","keys":"children","count":1,"sentence":false}
+{"id":405,"en":"More...","keys":"children","count":2,"sentence":false}
+{"id":406,"en":"Grid Size","keys":"title","count":1,"sentence":false}
+{"id":407,"en":"Grid","keys":"title","count":1,"sentence":false}
+{"id":408,"en":"Mirroring","keys":"title","count":1,"sentence":false}
+{"id":409,"en":"Outline","keys":"title","count":1,"sentence":false}
+{"id":410,"en":"Off","keys":"children","count":1,"sentence":false}
+{"id":411,"en":"On","keys":"children","count":1,"sentence":false}
+{"id":412,"en":"Colors","keys":"title","count":1,"sentence":false}
+{"id":413,"en":"Point","keys":"children","count":1,"sentence":false}
+{"id":414,"en":"Reset Position","keys":"children","count":1,"sentence":false}
+{"id":415,"en":"Handles","keys":"children","count":1,"sentence":false}
+{"id":416,"en":"Reset Curve","keys":"children","count":1,"sentence":false}
+{"id":417,"en":"Remove color stop","keys":"tooltip","count":1,"sentence":false}
+{"id":418,"en":"Stops","keys":"title","count":1,"sentence":false}
+{"id":419,"en":"Add color stop","keys":"tooltip","count":1,"sentence":false}
+{"id":420,"en":"Linear","keys":"children","count":1,"sentence":false}
+{"id":421,"en":"Radial","keys":"children","count":1,"sentence":false}
+{"id":422,"en":"Angular","keys":"children","count":1,"sentence":false}
+{"id":423,"en":"Mesh","keys":"children","count":1,"sentence":false}
+{"id":424,"en":"Stretch","keys":"children","count":1,"sentence":false}
+{"id":425,"en":"Fit","keys":"children","count":1,"sentence":false}
+{"id":426,"en":"Image path or URL","keys":"placeholder","count":2,"sentence":false}
+{"id":427,"en":"Import image file","keys":"tooltip","count":1,"sentence":false}
+{"id":428,"en":"Shader path or URL","keys":"placeholder","count":1,"sentence":false}
+{"id":429,"en":"Import shader file","keys":"tooltip","count":1,"sentence":false}
+{"id":430,"en":"Tip: You can ask agent to generate a shader for you based on your description or find more shaders in Goodies...","keys":"children","count":1,"sentence":false}
+{"id":431,"en":"Shader Gallery...","keys":"children","count":1,"sentence":false}
+{"id":432,"en":"Import image","keys":"tooltip","count":1,"sentence":false}
+{"id":433,"en":"Gradient","keys":"label","count":1,"sentence":false}
+{"id":434,"en":"Image","keys":"label","count":1,"sentence":false}
+{"id":435,"en":"Shader","keys":"label","count":1,"sentence":false}
+{"id":436,"en":"Remove","keys":"tooltip","count":1,"sentence":false}
+{"id":437,"en":"Mixed fills","keys":"children","count":1,"sentence":false}
+{"id":438,"en":"Add fill","keys":"tooltip","count":1,"sentence":false}
+{"id":439,"en":"Search icons...","keys":"placeholder","count":1,"sentence":false}
+{"id":440,"en":"Icon","keys":"title,label","count":2,"sentence":false}
+{"id":441,"en":"Font","keys":"placeholder","count":1,"sentence":false}
+{"id":442,"en":"Auto width","keys":"label","count":1,"sentence":false}
+{"id":443,"en":"Auto height","keys":"label","count":1,"sentence":false}
+{"id":444,"en":"Fixed size","keys":"label","count":1,"sentence":false}
+{"id":445,"en":"Freeform","keys":"content","count":1,"sentence":false}
+{"id":446,"en":"Vertical","keys":"content,text","count":2,"sentence":false}
+{"id":447,"en":"Horizontal","keys":"content,text","count":2,"sentence":false}
+{"id":448,"en":"Space Between","keys":"children","count":1,"sentence":false}
+{"id":449,"en":"Space Around","keys":"children","count":1,"sentence":false}
+{"id":450,"en":"Padding","keys":"children","count":1,"sentence":false}
+{"id":451,"en":"Padding settings","keys":"tooltip","count":1,"sentence":false}
+{"id":452,"en":"Padding Values","keys":"children","count":1,"sentence":false}
+{"id":453,"en":"One value for all sides","keys":"children","count":1,"sentence":false}
+{"id":454,"en":"Horizontal/Vertical","keys":"children","count":1,"sentence":false}
+{"id":455,"en":"Top/Right/Bottom/Left","keys":"children","count":1,"sentence":false}
+{"id":456,"en":"Dimensions","keys":"children","count":1,"sentence":false}
+{"id":457,"en":"Fill Width","keys":"children","count":1,"sentence":false}
+{"id":458,"en":"Fill Height","keys":"children","count":1,"sentence":false}
+{"id":459,"en":"Hug Width","keys":"children","count":1,"sentence":false}
+{"id":460,"en":"Hug Height","keys":"children","count":1,"sentence":false}
+{"id":461,"en":"Resizing","keys":"children","count":1,"sentence":false}
+{"id":462,"en":"Clip Content","keys":"children","count":1,"sentence":false}
+{"id":463,"en":"Source","keys":"label","count":1,"sentence":false}
+{"id":464,"en":"Tag","keys":"label","count":1,"sentence":false}
+{"id":465,"en":"Link","keys":"label","count":1,"sentence":false}
+{"id":466,"en":"Metadata","keys":"title","count":1,"sentence":false}
+{"id":467,"en":"Remove metadata","keys":"tooltip","count":1,"sentence":false}
+{"id":468,"en":"Rotate 90° right","keys":"tooltip","count":1,"sentence":false}
+{"id":469,"en":"Absolute Position","keys":"children","count":1,"sentence":false}
+{"id":470,"en":"Search components...","keys":"placeholder","count":1,"sentence":false}
+{"id":471,"en":"Select an element to create a component.","keys":"children","count":1,"sentence":false}
+{"id":472,"en":"No components created yet.","keys":"children","count":1,"sentence":false}
+{"id":473,"en":"Tip: Why Use Components","keys":"children","count":1,"sentence":false}
+{"id":474,"en":"Components let you maintain consistency across your designs. Edit the main component once and every instance updates automatically.","keys":"children","count":1,"sentence":false}
+{"id":475,"en":"Components serve as the foundation for building design systems.","keys":"children","count":1,"sentence":false}
+{"id":476,"en":"Creating Components","keys":"children","count":1,"sentence":false}
+{"id":477,"en":"Any standard design element — a frame, shape, or text — can be converted into a reusable component.","keys":"children","count":1,"sentence":false}
+{"id":478,"en":"Select the element","keys":"children","count":1,"sentence":false}
+{"id":479,"en":"The element becomes your component origin, marked with a magenta bounding box. You can also create nested components for more complex structures.","keys":"children","count":1,"sentence":false}
+{"id":480,"en":"Using Components","keys":"children","count":1,"sentence":false}
+{"id":481,"en":"Copy the component origin on the canvas to create an instance. Instances are marked with a violet bounding box when selected.","keys":"children","count":1,"sentence":false}
+{"id":482,"en":"Import script file","keys":"tooltip","count":1,"sentence":false}
+{"id":483,"en":"Convert to layers","keys":"children","count":1,"sentence":false}
+{"id":484,"en":"Tip: You can ask agent to generate a script for you based on your description or find more scripts in Goodies...","keys":"children","count":1,"sentence":false}
+{"id":485,"en":"Script Gallery...","keys":"children","count":1,"sentence":false}
+{"id":486,"en":"No components found","keys":"children","count":1,"sentence":false}
+{"id":487,"en":"Miter","keys":"label","count":1,"sentence":false}
+{"id":488,"en":"Round","keys":"label","count":2,"sentence":false}
+{"id":489,"en":"Bevel","keys":"label","count":1,"sentence":false}
+{"id":490,"en":"Square","keys":"label","count":1,"sentence":false}
+{"id":491,"en":"Mixed","keys":"children","count":2,"sentence":false}
+{"id":492,"en":"Stroke","keys":"title","count":1,"sentence":false}
+{"id":493,"en":"Add stroke","keys":"tooltip","count":1,"sentence":false}
+{"id":494,"en":"Center","keys":"children","count":1,"sentence":false}
+{"id":495,"en":"Inside","keys":"children","count":1,"sentence":false}
+{"id":496,"en":"Outside","keys":"children","count":1,"sentence":false}
+{"id":497,"en":"Weight","keys":"text,children,placeholder","count":3,"sentence":false}
+{"id":498,"en":"Edit sides individually","keys":"tooltip","count":1,"sentence":false}
+{"id":499,"en":"Join","keys":"text,placeholder","count":2,"sentence":false}
+{"id":500,"en":"Cap","keys":"text,placeholder","count":2,"sentence":false}
+{"id":501,"en":"Theme","keys":"title","count":1,"sentence":false}
+{"id":502,"en":"Add theme","keys":"tooltip","count":1,"sentence":false}
+{"id":503,"en":"Mixed themes","keys":"children","count":1,"sentence":false}
+{"id":504,"en":"Remove theme","keys":"tooltip","count":1,"sentence":false}
+{"id":505,"en":"Present","keys":"content","count":3,"sentence":false}
+{"id":506,"en":"Slot","keys":"title","count":1,"sentence":false}
+{"id":507,"en":"Context information","keys":"placeholder","count":1,"sentence":false}
+{"id":508,"en":"File is not a valid font","keys":"message","count":2,"sentence":false}
+{"id":509,"en":"Failed to import font file","keys":"message","count":1,"sentence":false}
+{"id":510,"en":"Custom Fonts","keys":"children","count":2,"sentence":false}
+{"id":511,"en":"Fonts added here are only available in this document.","keys":"children","count":1,"sentence":false}
+{"id":512,"en":"Import custom fonts in .ttf, .otf, .woff, or .woff2 format.","keys":"children","count":1,"sentence":false}
+{"id":513,"en":"Local font files will be automatically copied next to your pen file.","keys":"children","count":1,"sentence":false}
+{"id":514,"en":"Font file path (.ttf, .otf, .woff, .woff2)","keys":"placeholder","count":1,"sentence":false}
+{"id":515,"en":"Family","keys":"children","count":1,"sentence":false}
+{"id":516,"en":"Add new font","keys":"children","count":1,"sentence":false}
+{"id":517,"en":"Search fonts...","keys":"placeholder","count":1,"sentence":false}
+{"id":518,"en":"All Fonts","keys":"children","count":1,"sentence":false}
+{"id":519,"en":"Align Left","keys":"label","count":1,"sentence":false}
+{"id":520,"en":"Align Center","keys":"label","count":1,"sentence":false}
+{"id":521,"en":"Align Right","keys":"label","count":1,"sentence":false}
+{"id":522,"en":"Justify","keys":"label","count":1,"sentence":false}
+{"id":523,"en":"Align Top","keys":"label","count":1,"sentence":false}
+{"id":524,"en":"Align Middle","keys":"label","count":1,"sentence":false}
+{"id":525,"en":"Align Bottom","keys":"label","count":1,"sentence":false}
+{"id":526,"en":"Letter spacing","keys":"text","count":1,"sentence":false}
+{"id":527,"en":"Vector","keys":"title","count":1,"sentence":false}
+{"id":528,"en":"Viewbox","keys":"text","count":1,"sentence":false}
+{"id":529,"en":"Auto","keys":"children","count":1,"sentence":false}
+{"id":530,"en":"Fixed","keys":"children","count":1,"sentence":false}
+{"id":531,"en":"Winding","keys":"text","count":1,"sentence":false}
+{"id":532,"en":"Nonzero","keys":"children","count":1,"sentence":false}
+{"id":533,"en":"Even-odd","keys":"children","count":1,"sentence":false}
+{"id":534,"en":"Blocked URL: ","keys":"title","count":1,"sentence":false}
+{"id":535,"en":"Reset zoom and pan","keys":"title","count":1,"sentence":false}
+{"id":536,"en":"Failed to render Mermaid chart","keys":"message","count":1,"sentence":false}
+{"id":537,"en":"Loading diagram...","keys":"children","count":1,"sentence":false}
+{"id":538,"en":"Show Code","keys":"children","count":1,"sentence":false}
+{"id":539,"en":"inline*","keys":"content","count":2,"sentence":false}
+{"id":540,"en":"block+","keys":"content","count":1,"sentence":false}
+{"id":541,"en":"Write something …","keys":"placeholder","count":1,"sentence":false}
+{"id":542,"en":"Upgrade your plan to use pen.dev models","keys":"content","count":1,"sentence":false}
+{"id":543,"en":"Upgrade","keys":"children","count":1,"sentence":false}
+{"id":544,"en":"Effort","keys":"children","count":1,"sentence":false}
+{"id":545,"en":"Setup","keys":"children","count":1,"sentence":false}
+{"id":546,"en":"Anthropic","keys":"label","count":1,"sentence":false}
+{"id":547,"en":"Gemini","keys":"label","count":1,"sentence":false}
+{"id":548,"en":"OpenAI","keys":"label","count":1,"sentence":false}
+{"id":549,"en":"Cursor","keys":"label,title","count":2,"sentence":false}
+{"id":550,"en":"Search models…","keys":"placeholder","count":1,"sentence":false}
+{"id":551,"en":"No models found","keys":"children","count":1,"sentence":false}
+{"id":552,"en":"Add SKILL.md file…","keys":"children","count":1,"sentence":false}
+{"id":553,"en":"Failed to load files","keys":"message","count":1,"sentence":false}
+{"id":554,"en":"Failed to download files","keys":"message","count":1,"sentence":false}
+{"id":555,"en":"Attach from workspace","keys":"children","count":1,"sentence":false}
+{"id":556,"en":"Choose images or text files from your cloud workspace.","keys":"children","count":1,"sentence":false}
+{"id":557,"en":"No attachable files in this workspace.","keys":"children","count":1,"sentence":false}
+{"id":558,"en":"No files","keys":"children","count":1,"sentence":false}
+{"id":559,"en":"Add to context","keys":"content","count":1,"sentence":false}
+{"id":560,"en":"Add to Context","keys":"children","count":1,"sentence":false}
+{"id":561,"en":"Connecting…","keys":"children","count":1,"sentence":false}
+{"id":562,"en":"Set parallel agents","keys":"content","count":1,"sentence":false}
+{"id":563,"en":"Parallel agents","keys":"children","count":1,"sentence":false}
+{"id":564,"en":"Split Work","keys":"title","count":1,"sentence":false}
+{"id":565,"en":"Multiple agents work on different tasks","keys":"subtitle","count":1,"sentence":false}
+{"id":566,"en":"Side by Side","keys":"title","count":1,"sentence":false}
+{"id":567,"en":"Multiple agents work on the same task","keys":"subtitle","count":1,"sentence":false}
+{"id":568,"en":"Main","keys":"children","count":1,"sentence":false}
+{"id":569,"en":"Reset to main model","keys":"children","count":1,"sentence":false}
+{"id":570,"en":"Let it cook","keys":"content,children","count":2,"sentence":false}
+{"id":571,"en":"Leave the agent running after a design is done. It will keep generating new variations on its own.","keys":"content","count":1,"sentence":false}
+{"id":572,"en":"Iteration mode","keys":"children","count":1,"sentence":false}
+{"id":573,"en":"Variants","keys":"children","count":1,"sentence":false}
+{"id":574,"en":"Switching provider will lose conversation context","keys":"content","count":1,"sentence":false}
+{"id":575,"en":"Stop generation","keys":"content","count":1,"sentence":false}
+{"id":576,"en":"Choose a style","keys":"title","count":1,"sentence":false}
+{"id":577,"en":"replaces every occurrence","keys":"children","count":1,"sentence":false}
+{"id":578,"en":"Tasks","keys":"children","count":1,"sentence":false}
+{"id":579,"en":"Permission Request","keys":"children","count":1,"sentence":false}
+{"id":580,"en":"Allows this request and switches Claude to auto permission mode, letting it approve future permission requests on its own. This setting is preserved for future sessions, change it in Settings → General.","keys":"content","count":1,"sentence":false}
+{"id":581,"en":"Allow","keys":"children","count":1,"sentence":false}
+{"id":582,"en":"Deny","keys":"children","count":1,"sentence":false}
+{"id":583,"en":"Tip: skip future permission requests by setting the repository folder.","keys":"children","count":1,"sentence":false}
+{"id":584,"en":"Set Repository","keys":"children","count":2,"sentence":false}
+{"id":585,"en":"(multi-select)","keys":"children","count":1,"sentence":false}
+{"id":586,"en":"Submit Answer","keys":"children","count":1,"sentence":false}
+{"id":587,"en":"Subagent Task","keys":"children","count":1,"sentence":false}
+{"id":588,"en":"Thinking","keys":"children","count":2,"sentence":false}
+{"id":589,"en":"Planning next moves","keys":"children","count":1,"sentence":false}
+{"id":590,"en":"in terminal to troubleshoot.","keys":"children","count":1,"sentence":false}
+{"id":591,"en":"View status","keys":"children","count":1,"sentence":false}
+{"id":592,"en":"Clear Agent History","keys":"children","count":1,"sentence":false}
+{"id":593,"en":"New","keys":"children","count":1,"sentence":false}
+{"id":594,"en":"Finished","keys":"children","count":1,"sentence":false}
+{"id":595,"en":"Stop all agents","keys":"children","count":1,"sentence":false}
+{"id":596,"en":"Loading agent conversations…","keys":"children","count":1,"sentence":false}
+{"id":597,"en":"Hi, I am your design agent. Ask me to design something...","keys":"children","count":1,"sentence":false}
+{"id":598,"en":"How to export to code:","keys":"children","count":1,"sentence":false}
+{"id":599,"en":"Attach context files:","keys":"children","count":1,"sentence":false}
+{"id":600,"en":"Pencil it out","keys":"children","count":1,"sentence":false}
+{"id":601,"en":"Remove Agent History","keys":"children","count":1,"sentence":false}
+{"id":602,"en":"This will permanently delete all agent chat history and cannot be undone.","keys":"children","count":1,"sentence":false}
+{"id":603,"en":"Remove all","keys":"children","count":1,"sentence":false}
+{"id":604,"en":"Stop agents","keys":"children","count":1,"sentence":false}
+{"id":605,"en":"Stop current","keys":"children","count":1,"sentence":false}
+{"id":606,"en":"Failed to load layer list.","keys":"children","count":1,"sentence":false}
+{"id":607,"en":"Empty canvas. Draw something.","keys":"children","count":1,"sentence":false}
+{"id":608,"en":"Failed to load Slides.","keys":"children","count":1,"sentence":false}
+{"id":609,"en":"No frames yet.","keys":"children","count":1,"sentence":false}
+{"id":610,"en":"Add frames to the canvas to see them here as slides. Frames appear in document order and can be reordered by dragging.","keys":"children","count":1,"sentence":false}
+{"id":611,"en":"Export all slides","keys":"children","count":1,"sentence":false}
+{"id":612,"en":"Show usage","keys":"children","count":1,"sentence":false}
+{"id":613,"en":"No organizations","keys":"children","count":1,"sentence":false}
+{"id":614,"en":"Current workspace","keys":"children","count":1,"sentence":false}
+{"id":615,"en":"User profile","keys":"content","count":1,"sentence":false}
+{"id":616,"en":"Done","keys":"content","count":1,"sentence":false}
+{"id":617,"en":"Line","keys":"label","count":1,"sentence":false}
+{"id":618,"en":"Import Image or SVG…","keys":"label","count":1,"sentence":false}
+{"id":619,"en":"Sticky Note","keys":"label","count":1,"sentence":false}
+{"id":620,"en":"Script","keys":"label","count":1,"sentence":false}
+{"id":621,"en":"1) Copy/Paste: Copy any layer or frame in Figma and paste it onto the canvas in Pencil. Btw: Images are not included.","keys":"children","count":1,"sentence":false}
+{"id":622,"en":"2) Import .fig file: For a full import including images, export a .fig file from Figma (File > Save local copy) and drag and drop onto Pencil.","keys":"children","count":1,"sentence":false}
+{"id":623,"en":"Note: Some advanced graphics features might not yet be supported. Multi-page .fig files are not supported yet (only first page is imported).","keys":"children","count":1,"sentence":false}
+{"id":624,"en":"Variables","keys":"content","count":1,"sentence":false}
+{"id":625,"en":"Design Goodies","keys":"content,title","count":2,"sentence":false}
+{"id":626,"en":"Toggle Design Mode","keys":"content","count":1,"sentence":false}
+{"id":627,"en":"Pencil not connected","keys":"children","count":1,"sentence":false}
+{"id":628,"en":"Click and toggle off and on the Pencil MCP server in settings","keys":"children","count":1,"sentence":false}
+{"id":629,"en":"Name","keys":"children","count":1,"sentence":false}
+{"id":630,"en":"Value","keys":"children","count":1,"sentence":false}
+{"id":631,"en":"Zoom to 50%","keys":"label","count":1,"sentence":false}
+{"id":632,"en":"Zoom to 200%","keys":"label","count":1,"sentence":false}
+{"id":633,"en":"Failed to save profile. Please try again.","keys":"message","count":1,"sentence":false}
+{"id":634,"en":"Email Address","keys":"children","count":2,"sentence":false}
+{"id":635,"en":"email@example.com","keys":"placeholder","count":2,"sentence":false}
+{"id":636,"en":"Verification Code","keys":"children","count":1,"sentence":false}
+{"id":637,"en":"Password","keys":"children","count":2,"sentence":false}
+{"id":638,"en":"Enter your password","keys":"placeholder","count":1,"sentence":false}
+{"id":639,"en":"Display Name","keys":"children","count":1,"sentence":false}
+{"id":640,"en":"Your Name","keys":"placeholder","count":1,"sentence":false}
+{"id":641,"en":"Username","keys":"children","count":1,"sentence":false}
+{"id":642,"en":"Unique, URL-friendly username","keys":"placeholder","count":1,"sentence":false}
+{"id":643,"en":"Email","keys":"children","count":1,"sentence":false}
+{"id":644,"en":"Create a password","keys":"placeholder","count":1,"sentence":false}
+{"id":645,"en":"I have a password","keys":"children","count":1,"sentence":false}
+{"id":646,"en":"← Use a different email","keys":"children","count":1,"sentence":false}
+{"id":647,"en":"Resend code","keys":"children","count":1,"sentence":false}
+{"id":648,"en":"Use email code instead","keys":"children","count":1,"sentence":false}
+{"id":649,"en":"Skip for now","keys":"children","count":1,"sentence":false}
+{"id":650,"en":"Privacy Policy","keys":"children","count":1,"sentence":false}
+{"id":651,"en":"Terms of Use","keys":"children","count":1,"sentence":false}
+{"id":652,"en":"EULA","keys":"children","count":1,"sentence":false}
+{"id":653,"en":"Dismiss Sample Prompts","keys":"content","count":1,"sentence":false}
+{"id":654,"en":"Minimize chat","keys":"content","count":1,"sentence":false}
+{"id":655,"en":"Show Agent History","keys":"content","count":1,"sentence":false}
+{"id":656,"en":"Design anything...","keys":"placeholder","count":1,"sentence":false}
+{"id":657,"en":"Pencil automatically installs pencil MCP (Model Context Protocol) server to Claude Code, Codex and other coding agents allowing you to generate production-ready code from your designs directly in your terminal.","keys":"children","count":1,"sentence":false}
+{"id":658,"en":"Active MCPs:","keys":"children","count":1,"sentence":false}
+{"id":659,"en":"Note: If you still don't see Pencil MCP tools, make sure to launch Pencil app first and then claude code afterwards. Pencil installs MCP tools automatically on launch.","keys":"children","count":1,"sentence":false}
+{"id":660,"en":"Ask Claude to generate code from your designs (Keep Pencil desktop app running). Claude Code will be able to access selections, components, variables, etc.","keys":"children","count":1,"sentence":false}
+{"id":661,"en":"Example prompt (Run via Claude Code CLI in Terminal):","keys":"children","count":1,"sentence":false}
+{"id":662,"en":"Generate React/Tailwind/NextJS code from the selected frame","keys":"children","count":1,"sentence":false}
+{"id":663,"en":"Update CSS based on the variables in the design","keys":"children","count":1,"sentence":false}
+{"id":664,"en":"Create a React component based on the selected frame","keys":"children","count":1,"sentence":false}
+{"id":665,"en":"Could not import this snapshot.","keys":"message","count":1,"sentence":false}
+{"id":666,"en":"Import Snapshot","keys":"children","count":1,"sentence":false}
+{"id":667,"en":"Paste a snapshot URL to download and open it in Pencil.","keys":"children","count":1,"sentence":false}
+{"id":668,"en":"Snapshot URL","keys":"children","count":1,"sentence":false}
+{"id":669,"en":"Select snapshot directory","keys":"children","count":1,"sentence":false}
+{"id":670,"en":"Moonshot AI","keys":"title","count":1,"sentence":false}
+{"id":671,"en":"Kimi For Coding","keys":"title","count":1,"sentence":false}
+{"id":672,"en":"Deepseek","keys":"title","count":1,"sentence":false}
+{"id":673,"en":"Open Router","keys":"title","count":1,"sentence":false}
+{"id":674,"en":"Fireworks AI","keys":"title","count":1,"sentence":false}
+{"id":675,"en":"Together AI","keys":"title","count":1,"sentence":false}
+{"id":676,"en":"OpenCode Zen","keys":"title","count":1,"sentence":false}
+{"id":677,"en":"OpenCode Go","keys":"title","count":1,"sentence":false}
+{"id":678,"en":"xAI","keys":"title","count":1,"sentence":false}
+{"id":679,"en":"Z.AI","keys":"title","count":1,"sentence":false}
+{"id":680,"en":"GitHub Copilot","keys":"title","count":1,"sentence":false}
+{"id":681,"en":"Use GitHub Enterprise (optional)","keys":"label","count":1,"sentence":false}
+{"id":682,"en":"Leave blank to use github.com.","keys":"hint","count":1,"sentence":false}
+{"id":683,"en":"OpenAI ChatGPT","keys":"title","count":1,"sentence":false}
+{"id":684,"en":"Anthropic Claude Code","keys":"title","count":1,"sentence":false}
+{"id":685,"en":"Google Gemini","keys":"title","count":1,"sentence":false}
+{"id":686,"en":"text-green-700 dark:text-green-300","keys":"text","count":1,"sentence":false}
+{"id":687,"en":"text-amber-700 dark:text-amber-300","keys":"text","count":1,"sentence":false}
+{"id":688,"en":"text-sky-700 dark:text-sky-300","keys":"text","count":1,"sentence":false}
+{"id":689,"en":"Re-check connection","keys":"children","count":1,"sentence":false}
+{"id":690,"en":"Details","keys":"children","count":1,"sentence":false}
+{"id":691,"en":"Check status","keys":"content","count":1,"sentence":false}
+{"id":692,"en":"Enter this code in your browser to authorize:","keys":"children","count":1,"sentence":false}
+{"id":693,"en":"Its models are available in the model picker.","keys":"children","count":1,"sentence":false}
+{"id":694,"en":"Models/Provider info","keys":"content","count":1,"sentence":false}
+{"id":695,"en":"Connect your AI provider","keys":"children","count":1,"sentence":false}
+{"id":696,"en":"Design with Fable 5, GPT 5.6, Opus 4.8, Grok 4.5, Composer 2.5, Minimax M3, GLM 5.2, Kimi K2.7 Code, Qwen 3.7...","keys":"children","count":1,"sentence":false}
+{"id":697,"en":"Use tokens from your existing subscriptions. Pen.dev automatically connects to Claude Code and Codex on your system.","keys":"children","count":1,"sentence":false}
+{"id":698,"en":"Setup Providers","keys":"children","count":1,"sentence":false}
+{"id":699,"en":"Your Claude Code settings (e.g. subscription)","keys":"label","count":1,"sentence":false}
+{"id":700,"en":"API key","keys":"label","count":4,"sentence":false}
+{"id":701,"en":"Sign in with Claude (Pro/Max)","keys":"label","count":1,"sentence":false}
+{"id":702,"en":"AWS Bedrock","keys":"label","count":1,"sentence":false}
+{"id":703,"en":"Google Vertex","keys":"label","count":1,"sentence":false}
+{"id":704,"en":"Microsoft Foundry","keys":"label","count":1,"sentence":false}
+{"id":705,"en":"Custom model","keys":"label","count":1,"sentence":false}
+{"id":706,"en":"Your Codex settings (e.g. subscription)","keys":"label","count":1,"sentence":false}
+{"id":707,"en":"Sign in with ChatGPT Plus/Pro (Codex Subscription)","keys":"label","count":1,"sentence":false}
+{"id":708,"en":"Clear","keys":"children","count":2,"sentence":false}
+{"id":709,"en":"A key is already saved — enter a new one to replace it.","keys":"children","count":1,"sentence":false}
+{"id":710,"en":"Auto permission mode","keys":"children","count":1,"sentence":false}
+{"id":711,"en":"Let Claude keep designing without asking for permission on each step.","keys":"children","count":1,"sentence":false}
+{"id":712,"en":"Claude executable","keys":"children","count":1,"sentence":false}
+{"id":713,"en":"Advanced","keys":"children","count":1,"sentence":false}
+{"id":714,"en":"Browse…","keys":"content","count":1,"sentence":false}
+{"id":715,"en":"Use your Claude Pro or Max subscription. Sign in below and your models will show up in the model picker.","keys":"children","count":1,"sentence":false}
+{"id":716,"en":"Install Claude Code and log in","keys":"children","count":1,"sentence":false}
+{"id":717,"en":"On Windows, install natively — not in WSL.","keys":"children","count":1,"sentence":false}
+{"id":718,"en":"Use your ChatGPT Plus or Pro subscription. Sign in below and your models will show up in the model picker.","keys":"children","count":1,"sentence":false}
+{"id":719,"en":"Install OpenAI Codex and log in","keys":"children","count":1,"sentence":false}
+{"id":720,"en":"Create an API key in Google AI Studio, then paste it below.","keys":"children","count":1,"sentence":false}
+{"id":721,"en":"Generate Gemini API key","keys":"children","count":1,"sentence":false}
+{"id":722,"en":"Gemini API key","keys":"label","count":1,"sentence":false}
+{"id":723,"en":"AIza...","keys":"placeholder","count":1,"sentence":false}
+{"id":724,"en":"Create an API key from the Integrations tab of your Cursor dashboard, then paste it below.","keys":"children","count":1,"sentence":false}
+{"id":725,"en":"Generate a Cursor API key","keys":"children","count":1,"sentence":false}
+{"id":726,"en":"Cursor API key","keys":"label","count":1,"sentence":false}
+{"id":727,"en":"Get Started","keys":"title","count":1,"sentence":false}
+{"id":728,"en":"Authentication","keys":"title","count":1,"sentence":false}
+{"id":729,"en":"Agent Settings","keys":"title","count":1,"sentence":false}
+{"id":730,"en":"General","keys":"label","count":2,"sentence":false}
+{"id":731,"en":"Agents","keys":"label,children","count":2,"sentence":false}
+{"id":732,"en":"Agent Names","keys":"label","count":1,"sentence":false}
+{"id":733,"en":"Chat","keys":"label","count":1,"sentence":false}
+{"id":734,"en":"MCP","keys":"label","count":2,"sentence":false}
+{"id":735,"en":"Account","keys":"label","count":1,"sentence":false}
+{"id":736,"en":"Pick names for your design agents","keys":"children","count":1,"sentence":false}
+{"id":737,"en":"You can also customize the names of your agents or do this later.","keys":"children","count":1,"sentence":false}
+{"id":738,"en":"Small","keys":"label","count":1,"sentence":false}
+{"id":739,"en":"Large","keys":"label","count":2,"sentence":false}
+{"id":740,"en":"Use scroll wheel to zoom","keys":"label","count":1,"sentence":false}
+{"id":741,"en":"Invert zoom direction","keys":"label","count":1,"sentence":false}
+{"id":742,"en":"Hide sidebar when Layers are open","keys":"label","count":1,"sentence":false}
+{"id":743,"en":"Animations & effects (turn off to save GPU/CPU)","keys":"label","count":1,"sentence":false}
+{"id":744,"en":"Agent Chat Text Size","keys":"label","count":1,"sentence":false}
+{"id":745,"en":"Agent cursor size","keys":"label","count":1,"sentence":false}
+{"id":746,"en":"Hidden","keys":"label","count":1,"sentence":false}
+{"id":747,"en":"Small (Default)","keys":"label","count":1,"sentence":false}
+{"id":748,"en":"Agent cursor label","keys":"label","count":1,"sentence":false}
+{"id":749,"en":"Agent (Default)","keys":"label","count":1,"sentence":false}
+{"id":750,"en":"Agent + Model","keys":"label","count":1,"sentence":false}
+{"id":751,"en":"Model","keys":"label","count":1,"sentence":false}
+{"id":752,"en":"Include HTML metadata when importing pages","keys":"label","count":1,"sentence":false}
+{"id":753,"en":"Default image generation provider","keys":"label","count":1,"sentence":false}
+{"id":754,"en":"Please complete your profile to continue using Pencil","keys":"children","count":2,"sentence":false}
+{"id":755,"en":"Edit Profile","keys":"children","count":2,"sentence":false}
+{"id":756,"en":"Selected tab will be used for agent names.","keys":"children","count":1,"sentence":false}
+{"id":757,"en":"Notifications","keys":"children","count":1,"sentence":false}
+{"id":758,"en":"Notify when agents finish designing while the app is in the background.","keys":"children","count":1,"sentence":false}
+{"id":759,"en":"Dangerously skip permissions","keys":"children","count":1,"sentence":false}
+{"id":760,"en":"Allow agents to run without permission prompts. This gives full file system and command access.","keys":"children","count":1,"sentence":false}
+{"id":761,"en":"Copy MCP config","keys":"children","count":1,"sentence":false}
+{"id":762,"en":"Failed to export snapshot","keys":"message","count":2,"sentence":false}
+{"id":763,"en":"Export snapshot","keys":"children","count":1,"sentence":false}
+{"id":764,"en":"A snapshot is a self-contained ZIP of this design and all referenced dependencies so it can be reopened on another machine. It will include:","keys":"children","count":1,"sentence":false}
+{"id":765,"en":"text-xxs !text-muted-foreground","keys":"description","count":1,"sentence":false}
+{"id":766,"en":"Hardware acceleration unavailable","keys":"children","count":1,"sentence":false}
+{"id":767,"en":"Pencil couldn't access the GPU on this machine. Make sure your device has hardware acceleration enabled.","keys":"children","count":1,"sentence":false}
+{"id":768,"en":"Please restart the app and try again.","keys":"children","count":2,"sentence":false}
+{"id":769,"en":"Failed to start Pencil","keys":"children","count":1,"sentence":false}
+{"id":770,"en":"Something went wrong while starting Pencil.","keys":"children","count":1,"sentence":false}
+{"id":771,"en":"Plain","keys":"label","count":1,"sentence":false}
+{"id":772,"en":"Bash","keys":"label","count":1,"sentence":false}
+{"id":773,"en":"C++","keys":"label","count":1,"sentence":false}
+{"id":774,"en":"C#","keys":"label","count":1,"sentence":false}
+{"id":775,"en":"Diff","keys":"label","count":1,"sentence":false}
+{"id":776,"en":"HTML/XML","keys":"label","count":1,"sentence":false}
+{"id":777,"en":"Java","keys":"label","count":1,"sentence":false}
+{"id":778,"en":"JavaScript","keys":"label","count":1,"sentence":false}
+{"id":779,"en":"Markdown","keys":"label","count":1,"sentence":false}
+{"id":780,"en":"PHP","keys":"label","count":1,"sentence":false}
+{"id":781,"en":"Python","keys":"label","count":1,"sentence":false}
+{"id":782,"en":"Ruby","keys":"label","count":1,"sentence":false}
+{"id":783,"en":"SQL","keys":"label","count":1,"sentence":false}
+{"id":784,"en":"Some features may be limited or unavailable.","keys":"content","count":1,"sentence":false}
+{"id":785,"en":" — Edited","keys":"children","count":1,"sentence":false}
+{"id":786,"en":"Open a webpage and reproduce it on the canvas","keys":"content","count":1,"sentence":false}
+{"id":787,"en":"Upgrade to keep designing and building","keys":"children","count":1,"sentence":false}
+{"id":788,"en":"Monthly","keys":"children","count":1,"sentence":false}
+{"id":789,"en":"Visit your billing settings to review available plans and upgrade.","keys":"children","count":1,"sentence":false}
+{"id":790,"en":"Not now","keys":"children","count":1,"sentence":false}
+{"id":791,"en":"View all plans","keys":"children","count":1,"sentence":false}
+{"id":792,"en":"We use cookies to understand how the web editor is used.","keys":"children","count":1,"sentence":false}
+{"id":793,"en":"Decline","keys":"children","count":1,"sentence":false}
+{"id":794,"en":"Accept","keys":"children","count":1,"sentence":false}
+{"id":795,"en":"Download the app to edit files","keys":"children","count":1,"sentence":false}
+{"id":796,"en":"This is a read-only preview. Download the pen.dev app and this file to make changes.","keys":"children","count":1,"sentence":false}
+{"id":797,"en":"Free for macOS, Windows and Linux","keys":"children","count":1,"sentence":false}
+{"id":798,"en":"Download the file and open it in the pen.dev app to edit it.","keys":"content","count":1,"sentence":false}
+{"id":799,"en":"Read only","keys":"children","count":1,"sentence":false}
+{"id":800,"en":"Download file","keys":"children","count":1,"sentence":false}
+{"id":801,"en":"Design with AI in pen.dev","keys":"children","count":2,"sentence":false}
+{"id":802,"en":"Go from prompt to polished design in seconds.","keys":"children","count":1,"sentence":false}
+{"id":803,"en":"Try it free","keys":"children","count":1,"sentence":false}
+{"id":804,"en":"Learn more","keys":"children","count":1,"sentence":false}
+{"id":805,"en":"WebMCP","keys":"children","count":1,"sentence":false}
+{"id":806,"en":"Registering tools…","keys":"children","count":1,"sentence":false}
+{"id":807,"en":"Tool registration failed:","keys":"children","count":1,"sentence":false}
+{"id":808,"en":"Sidebar","keys":"content","count":1,"sentence":false}
+{"id":809,"en":"Goodies","keys":"children","count":1,"sentence":false}
+{"id":810,"en":"Toggle it off/on to reconnect.","keys":"description","count":1,"sentence":false}
+{"id":811,"en":"Cursor settings...","keys":"label","count":1,"sentence":false}
+{"id":812,"en":"Downloading new version…","keys":"description","count":1,"sentence":false}
+{"id":813,"en":"Update Ready","keys":"children","count":1,"sentence":false}
+{"id":814,"en":"A new version has been downloaded and is ready to install.","keys":"children","count":1,"sentence":false}
+{"id":815,"en":"Install and Restart","keys":"children","count":1,"sentence":false}
+{"id":816,"en":"Install on next launch","keys":"children","count":1,"sentence":false}
+{"id":817,"en":"unknown error","keys":"message","count":1,"sentence":false}
+{"id":818,"en":"Stop Presenting","keys":"content","count":1,"sentence":false}
+{"id":819,"en":"Drop .pen file to open","keys":"children","count":1,"sentence":false}
+{"id":820,"en":"Recent files","keys":"children","count":1,"sentence":false}
+{"id":821,"en":"No recent files yet","keys":"children","count":1,"sentence":false}
+{"id":822,"en":"Cannot add the same private member more than once","keys":"(sentence)","count":1,"sentence":true}
+{"id":823,"en":"No client configured on scope - will not capture exception!","keys":"(sentence)","count":1,"sentence":true}
+{"id":824,"en":"Sentry syntheticException","keys":"(sentence)","count":1,"sentence":true}
+{"id":825,"en":"No client configured on scope - will not capture message!","keys":"(sentence)","count":1,"sentence":true}
+{"id":826,"en":"No client configured on scope - will not capture event!","keys":"(sentence)","count":1,"sentence":true}
+{"id":827,"en":"No DSN provided, client will not send events.","keys":"(sentence)","count":1,"sentence":true}
+{"id":828,"en":"Error while sending envelope:","keys":"(sentence)","count":1,"sentence":true}
+{"id":829,"en":"An event processor returned `null`, will not send event.","keys":"(sentence)","count":1,"sentence":true}
+{"id":830,"en":"Flushing outcomes...","keys":"(sentence)","count":1,"sentence":true}
+{"id":831,"en":"No dsn provided, will not send outcomes","keys":"(sentence)","count":1,"sentence":true}
+{"id":832,"en":"Encountered error running transport request:","keys":"(sentence)","count":1,"sentence":true}
+{"id":833,"en":"Skipped sending event because buffer is full.","keys":"(sentence)","count":1,"sentence":true}
+{"id":834,"en":"Can't find variable: _AutofillCallbackHandler","keys":"(sentence)","count":1,"sentence":true}
+{"id":835,"en":"Event dropped due to being a duplicate of previously captured event.","keys":"(sentence)","count":1,"sentence":true}
+{"id":836,"en":"Could not create sandbox iframe for pure fetch check, bailing to window.fetch: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":837,"en":"Using the `browserSessionIntegration` in non-browser environments is not supported.","keys":"(sentence)","count":1,"sentence":true}
+{"id":838,"en":"Objects are not valid as a React child (found: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":839,"en":"React.Children.only expected to receive a single React element child.","keys":"(sentence)","count":1,"sentence":true}
+{"id":840,"en":"The argument must be a React element, but you passed ","keys":"(sentence)","count":1,"sentence":true}
+{"id":841,"en":"Primitive value captured as exception: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":842,"en":"Non-Error promise rejection captured with value: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":843,"en":"You must initialize PostHog before calling ","keys":"(sentence)","count":1,"sentence":true}
+{"id":844,"en":"Loading of external scripts is disabled","keys":"(sentence)","count":1,"sentence":true}
+{"id":845,"en":"Implementation error. Please turn on debug mode and open a ticket on https://app.posthog.com/home#panel=support%3Asupport%3A.","keys":"(sentence)","count":1,"sentence":true}
+{"id":846,"en":"Skipping decoding for malformed query param: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":847,"en":"Failed to capture event","keys":"(sentence)","count":1,"sentence":true}
+{"id":848,"en":"Disabling Automatic Event Collection because this browser is not supported","keys":"(sentence)","count":1,"sentence":true}
+{"id":849,"en":"Could not generate UUID after timestamp reset","keys":"(sentence)","count":1,"sentence":true}
+{"id":850,"en":"Warning: cookie subdomain discovery mismatch","keys":"(sentence)","count":1,"sentence":true}
+{"id":851,"en":"Skipping exception capture because of client rate limiting.","keys":"(sentence)","count":1,"sentence":true}
+{"id":852,"en":"History API monitoring enabled, starting...","keys":"(sentence)","count":1,"sentence":true}
+{"id":853,"en":"History API monitoring stopped","keys":"(sentence)","count":1,"sentence":true}
+{"id":854,"en":"This browser does not have Promise support, and can not use the segment integration","keys":"(sentence)","count":1,"sentence":true}
+{"id":855,"en":"UserId set, identifying with PostHog","keys":"(sentence)","count":1,"sentence":true}
+{"id":856,"en":"No toolbar load function found","keys":"(sentence)","count":1,"sentence":true}
+{"id":857,"en":"Could not read session ID. Dropping metrics!","keys":"(sentence)","count":1,"sentence":true}
+{"id":858,"en":"Ignoring metric with value >= ","keys":"(sentence)","count":1,"sentence":true}
+{"id":859,"en":"Web Vitals are disabled on non-http/https protocols","keys":"(sentence)","count":1,"sentence":true}
+{"id":860,"en":"Could not determine current URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":861,"en":"Skipping exception capture because a suppression rule matched","keys":"(sentence)","count":1,"sentence":true}
+{"id":862,"en":"Skipping exception capture because it was thrown by an extension","keys":"(sentence)","count":1,"sentence":true}
+{"id":863,"en":"Using an older version of the feature flags endpoint. Please upgrade your PostHog server to the latest version","keys":"(sentence)","count":1,"sentence":true}
+{"id":864,"en":"Invalid evaluation environment found:","keys":"(sentence)","count":1,"sentence":true}
+{"id":865,"en":"Expected non-empty string","keys":"(sentence)","count":1,"sentence":true}
+{"id":866,"en":"You have hit your feature flags quota limit, and will not be able to load feature flags until the quota is reset.  Please visit https://posthog.com/docs/billing/limits-alerts to learn more.","keys":"(sentence)","count":1,"sentence":true}
+{"id":867,"en":"Unknown persistence type ","keys":"(sentence)","count":1,"sentence":true}
+{"id":868,"en":"Unknown property comparison operator: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":869,"en":"Flags not loaded yet. Not loading surveys.","keys":"(sentence)","count":1,"sentence":true}
+{"id":870,"en":"Already initializing surveys, skipping...","keys":"(sentence)","count":1,"sentence":true}
+{"id":871,"en":"Disabled. Not loading surveys.","keys":"(sentence)","count":1,"sentence":true}
+{"id":872,"en":"Not loading surveys in cookieless mode without consent.","keys":"(sentence)","count":1,"sentence":true}
+{"id":873,"en":"PostHog loadExternalDependency extension not found.","keys":"(sentence)","count":1,"sentence":true}
+{"id":874,"en":"Could not load surveys script","keys":"(sentence)","count":1,"sentence":true}
+{"id":875,"en":"Error initializing surveys","keys":"(sentence)","count":1,"sentence":true}
+{"id":876,"en":"PostHog Extensions not found.","keys":"(sentence)","count":1,"sentence":true}
+{"id":877,"en":"Surveys loaded successfully","keys":"(sentence)","count":1,"sentence":true}
+{"id":878,"en":"Error in survey callback","keys":"(sentence)","count":1,"sentence":true}
+{"id":879,"en":"SDK is not enabled or survey functionality is not yet loaded","keys":"(sentence)","count":1,"sentence":true}
+{"id":880,"en":"Survey element not found","keys":"(sentence)","count":1,"sentence":true}
+{"id":881,"en":"Survey is not eligible to be displayed: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":882,"en":"PostHog Extensions not found. Cannot load remote config.","keys":"(sentence)","count":1,"sentence":true}
+{"id":883,"en":"Using preloaded remote config","keys":"(sentence)","count":1,"sentence":true}
+{"id":884,"en":"Remote config is disabled. Falling back to local config.","keys":"(sentence)","count":1,"sentence":true}
+{"id":885,"en":"No config found after loading remote JS config. Falling back to JSON.","keys":"(sentence)","count":1,"sentence":true}
+{"id":886,"en":"Error loading remote config","keys":"(sentence)","count":1,"sentence":true}
+{"id":887,"en":"Failed to fetch remote config from PostHog.","keys":"(sentence)","count":1,"sentence":true}
+{"id":888,"en":"SessionIdManager requires a PostHogPersistence instance","keys":"(sentence)","count":1,"sentence":true}
+{"id":889,"en":"Invalid sessionID in bootstrap","keys":"(sentence)","count":1,"sentence":true}
+{"id":890,"en":"Event payload is required","keys":"(sentence)","count":1,"sentence":true}
+{"id":891,"en":"Error while initializing PostHog app with config id ","keys":"(sentence)","count":1,"sentence":true}
+{"id":892,"en":"Error while processing buffered events PostHog app with config id ","keys":"(sentence)","count":1,"sentence":true}
+{"id":893,"en":"Error while processing event ","keys":"(sentence)","count":1,"sentence":true}
+{"id":894,"en":"Refusing to render web experiment since the viewer is a likely bot","keys":"(sentence)","count":1,"sentence":true}
+{"id":895,"en":"Previewing web experiment [","keys":"(sentence)","count":1,"sentence":true}
+{"id":896,"en":"Control variants leave the page unmodified.","keys":"(sentence)","count":1,"sentence":true}
+{"id":897,"en":"Called on script loaded before session recording is available","keys":"(sentence)","count":1,"sentence":true}
+{"id":898,"en":"Invalid value for property_denylist config: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":899,"en":"WebPerformanceObserver is deprecated and has no impact on network capture. Use `_forceAllowLocalhostNetworkCapture` on `posthog.sessionRecording`","keys":"(sentence)","count":1,"sentence":true}
+{"id":900,"en":"PostHog was initialized without a token. This likely indicates a misconfiguration. Please check the first argument passed to posthog.init()","keys":"(sentence)","count":1,"sentence":true}
+{"id":901,"en":"You have already initialized PostHog! Re-initializing is a no-op","keys":"(sentence)","count":1,"sentence":true}
+{"id":902,"en":"Starting in debug mode","keys":"(sentence)","count":1,"sentence":true}
+{"id":903,"en":"No available transport method","keys":"(sentence)","count":1,"sentence":true}
+{"id":904,"en":"Invalid `$current_url` property provided to `posthog.capture`. Input must be a string. Ignoring provided value.","keys":"(sentence)","count":1,"sentence":true}
+{"id":905,"en":"This capture call is ignored due to client rate limiting.","keys":"(sentence)","count":1,"sentence":true}
+{"id":906,"en":"No event name provided to posthog.capture","keys":"(sentence)","count":1,"sentence":true}
+{"id":907,"en":"Invalid distinct_id for replay event. This indicates a bug in your implementation","keys":"(sentence)","count":1,"sentence":true}
+{"id":908,"en":"The first argument to posthog.identify was a number, but it should be a string. It has been converted to a string.","keys":"(sentence)","count":1,"sentence":true}
+{"id":909,"en":"Unique user id has not been set in posthog.identify","keys":"(sentence)","count":1,"sentence":true}
+{"id":910,"en":"A duplicate setPersonProperties call was made with the same properties. It has been ignored.","keys":"(sentence)","count":1,"sentence":true}
+{"id":911,"en":"Attempting to create alias for existing People user - aborting.","keys":"(sentence)","count":1,"sentence":true}
+{"id":912,"en":"You've disabled debug mode.","keys":"(sentence)","count":1,"sentence":true}
+{"id":913,"en":"Config field 'advanced_disable_decide' is deprecated. Please use 'advanced_disable_flags' instead. The old field will be removed in a future major version.","keys":"(sentence)","count":1,"sentence":true}
+{"id":914,"en":"Browser doesn't support `document.addEventListener` so PostHog couldn't be initialized","keys":"(sentence)","count":1,"sentence":true}
+{"id":915,"en":"Class extends value ","keys":"(sentence)","count":1,"sentence":true}
+{"id":916,"en":"A history only accepts one active listener","keys":"(sentence)","count":1,"sentence":true}
+{"id":917,"en":"Error handled by React Router default ErrorBoundary:","keys":"(sentence)","count":1,"sentence":true}
+{"id":918,"en":"You can provide a way better UX than this when your app throws errors by providing your own ","keys":"(sentence)","count":1,"sentence":true}
+{"id":919,"en":"React Router caught the following error during render","keys":"(sentence)","count":1,"sentence":true}
+{"id":920,"en":"No `HydrateFallback` element provided to render during initial hydration","keys":"(sentence)","count":1,"sentence":true}
+{"id":921,"en":"A <Route> is only ever to be used as the child of <Routes> element, never rendered directly. Please wrap your <Route> in a <Routes>.","keys":"(sentence)","count":1,"sentence":true}
+{"id":922,"en":"You cannot render a <Router> inside another <Router>. You should never have more than one in your app.","keys":"(sentence)","count":1,"sentence":true}
+{"id":923,"en":"An index route cannot have child routes.","keys":"(sentence)","count":1,"sentence":true}
+{"id":924,"en":"You must render this element inside a <DataRouterContext.Provider> element","keys":"(sentence)","count":1,"sentence":true}
+{"id":925,"en":"You must render this element inside a <DataRouterStateContext.Provider> element","keys":"(sentence)","count":1,"sentence":true}
+{"id":926,"en":"You must render this element inside a <HydratedRouter> element","keys":"(sentence)","count":1,"sentence":true}
+{"id":927,"en":"This should be unreachable!","keys":"(sentence)","count":1,"sentence":true}
+{"id":928,"en":"Samsung Internet for Android","keys":"(sentence)","count":1,"sentence":true}
+{"id":929,"en":"UserAgent parameter can't be empty","keys":"(sentence)","count":1,"sentence":true}
+{"id":930,"en":"Browser's test function is not valid","keys":"(sentence)","count":1,"sentence":true}
+{"id":931,"en":"UserAgent should be a string","keys":"(sentence)","count":1,"sentence":true}
+{"id":932,"en":"The browser import contains an invalid asset.","keys":"(sentence)","count":1,"sentence":true}
+{"id":933,"en":"The browser import payload is not valid JSON.","keys":"(sentence)","count":1,"sentence":true}
+{"id":934,"en":"The browser import payload is malformed.","keys":"(sentence)","count":1,"sentence":true}
+{"id":935,"en":"This browser import uses an unsupported version.","keys":"(sentence)","count":1,"sentence":true}
+{"id":936,"en":"The browser import snapshot is invalid.","keys":"(sentence)","count":1,"sentence":true}
+{"id":937,"en":"The browser import assets are invalid.","keys":"(sentence)","count":1,"sentence":true}
+{"id":938,"en":"Error handling IPC message:","keys":"(sentence)","count":1,"sentence":true}
+{"id":939,"en":"IPC server was disposed","keys":"(sentence)","count":1,"sentence":true}
+{"id":940,"en":"Param finalLength must be a number greater than or equal to 10,","keys":"(sentence)","count":1,"sentence":true}
+{"id":941,"en":"Cannot extract date from a formated UUID with no timestamp in the format","keys":"(sentence)","count":1,"sentence":true}
+{"id":942,"en":"Stamp length invalid","keys":"(sentence)","count":1,"sentence":true}
+{"id":943,"en":"Generator instantiated with Dictionary Size ","keys":"(sentence)","count":1,"sentence":true}
+{"id":944,"en":"Extension class must have an extension object","keys":"(sentence)","count":1,"sentence":true}
+{"id":945,"en":"The listener must be a function","keys":"(sentence)","count":1,"sentence":true}
+{"id":946,"en":"Cannot set Color#value to null","keys":"(sentence)","count":1,"sentence":true}
+{"id":947,"en":"PixiJS Warning: too many warnings, no more warnings will be reported to the console by PixiJS.","keys":"(sentence)","count":1,"sentence":true}
+{"id":948,"en":"The supplied Container must be a child of the caller","keys":"(sentence)","count":1,"sentence":true}
+{"id":949,"en":"Container.name property has been removed, use Container.label instead","keys":"(sentence)","count":1,"sentence":true}
+{"id":950,"en":"Container.mixin is deprecated, please use extensions.mixin instead.","keys":"(sentence)","count":1,"sentence":true}
+{"id":951,"en":"Setting both a pivot and origin on a Container is not recommended. This can lead to unexpected behavior if not handled carefully.","keys":"(sentence)","count":1,"sentence":true}
+{"id":952,"en":"Sprite.sourceBounds is deprecated, use visualBounds instead.","keys":"(sentence)","count":1,"sentence":true}
+{"id":953,"en":"Mask bounds, renderable is not inside the root container","keys":"(sentence)","count":1,"sentence":true}
+{"id":954,"en":"Path must be a string. Received ","keys":"(sentence)","count":1,"sentence":true}
+{"id":955,"en":"Parenthesis not matched","keys":"(sentence)","count":1,"sentence":true}
+{"id":956,"en":"Did not expect successive traversals.","keys":"(sentence)","count":1,"sentence":true}
+{"id":957,"en":"Attribute value didn't end","keys":"(sentence)","count":1,"sentence":true}
+{"id":958,"en":"Attribute selector didn't terminate","keys":"(sentence)","count":1,"sentence":true}
+{"id":959,"en":"Comment was not terminated","keys":"(sentence)","count":1,"sentence":true}
+{"id":960,"en":"Pseudo-elements are not supported by css-select","keys":"(sentence)","count":1,"sentence":true}
+{"id":961,"en":"Column combinators are not yet supported by css-select","keys":"(sentence)","count":1,"sentence":true}
+{"id":962,"en":"Namespaced attributes are not yet supported by css-select","keys":"(sentence)","count":1,"sentence":true}
+{"id":963,"en":"Namespaced tag names are not yet supported by css-select","keys":"(sentence)","count":1,"sentence":true}
+{"id":964,"en":"Namespaced universal selectors are not yet supported by css-select","keys":"(sentence)","count":1,"sentence":true}
+{"id":965,"en":"Relative selectors are not allowed when the `relativeSelector` option is disabled","keys":"(sentence)","count":1,"sentence":true}
+{"id":966,"en":"Expected more digits in base 64 VLQ value.","keys":"(sentence)","count":1,"sentence":true}
+{"id":967,"en":"No element indexed by ","keys":"(sentence)","count":1,"sentence":true}
+{"id":968,"en":"Neither `enter` nor `leave` walker handler is set or both aren't a function","keys":"(sentence)","count":1,"sentence":true}
+{"id":969,"en":"Bad syntax reference: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":970,"en":"Type of node should be an Object","keys":"(sentence)","count":1,"sentence":true}
+{"id":971,"en":"Matching for a tree with var() is not supported","keys":"(sentence)","count":1,"sentence":true}
+{"id":972,"en":"Unknown at-rule descriptor","keys":"(sentence)","count":1,"sentence":true}
+{"id":973,"en":"Not a Declaration node","keys":"(sentence)","count":1,"sentence":true}
+{"id":974,"en":"Lexer matching doesn't applicable for custom properties","keys":"(sentence)","count":1,"sentence":true}
+{"id":975,"en":"Number sign is not allowed","keys":"(sentence)","count":1,"sentence":true}
+{"id":976,"en":"Number sign is expected","keys":"(sentence)","count":1,"sentence":true}
+{"id":977,"en":"Vertical line is expected","keys":"(sentence)","count":1,"sentence":true}
+{"id":978,"en":"Attribute selector (=, ~=, ^=, $=, *=, |=) is expected","keys":"(sentence)","count":1,"sentence":true}
+{"id":979,"en":"Equal sign is expected","keys":"(sentence)","count":1,"sentence":true}
+{"id":980,"en":"Too many question marks","keys":"(sentence)","count":1,"sentence":true}
+{"id":981,"en":"Hex digit or question mark is expected","keys":"(sentence)","count":1,"sentence":true}
+{"id":982,"en":"Function name must be `url`","keys":"(sentence)","count":1,"sentence":true}
+{"id":983,"en":"Unsigned number is expected","keys":"(sentence)","count":1,"sentence":true}
+{"id":984,"en":"Zero number is not allowed","keys":"(sentence)","count":1,"sentence":true}
+{"id":985,"en":"Selector can't has classes from different scopes: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":986,"en":"Error: infinite loop while processing mergePaths plugin.","keys":"(sentence)","count":1,"sentence":true}
+{"id":987,"en":"Max buffer length exceeded: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":988,"en":"Unbound namespace prefix: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":989,"en":"Weird empty close tag.","keys":"(sentence)","count":1,"sentence":true}
+{"id":990,"en":"Unmatched closing tag: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":991,"en":"Non-whitespace before first tag.","keys":"(sentence)","count":1,"sentence":true}
+{"id":992,"en":"Cannot write after close. Assign an onready handler.","keys":"(sentence)","count":1,"sentence":true}
+{"id":993,"en":"Text data outside of root node.","keys":"(sentence)","count":1,"sentence":true}
+{"id":994,"en":"Inappropriately located doctype declaration","keys":"(sentence)","count":1,"sentence":true}
+{"id":995,"en":"Forward-slash in opening tag not followed by >","keys":"(sentence)","count":1,"sentence":true}
+{"id":996,"en":"Attribute without value","keys":"(sentence)","count":1,"sentence":true}
+{"id":997,"en":"Unquoted attribute value","keys":"(sentence)","count":1,"sentence":true}
+{"id":998,"en":"No whitespace between attributes","keys":"(sentence)","count":1,"sentence":true}
+{"id":999,"en":"Invalid tagname in closing tag","keys":"(sentence)","count":1,"sentence":true}
+{"id":1000,"en":"Invalid tagname in closing tag.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1001,"en":"Invalid characters in closing tag","keys":"(sentence)","count":1,"sentence":true}
+{"id":1002,"en":"Invalid character in entity name","keys":"(sentence)","count":1,"sentence":true}
+{"id":1003,"en":"Warning: removeScriptElement has been renamed to removeScripts, please update your SVGO config","keys":"(sentence)","count":1,"sentence":true}
+{"id":1004,"en":"Plugin name must be specified","keys":"(sentence)","count":1,"sentence":true}
+{"id":1005,"en":"Config should be an object","keys":"(sentence)","count":1,"sentence":true}
+{"id":1006,"en":"Warning: plugins list includes null or undefined elements, these will be ignored.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1007,"en":"SvgPath.from: invalid param type ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1008,"en":"Encountered Promise during synchronous parse. Use .parseAsync() instead.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1009,"en":"Cannot specify both `message` and `error` params","keys":"(sentence)","count":1,"sentence":true}
+{"id":1010,"en":"Unprocessed schema. This is a bug in Zod.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1011,"en":"Error converting schema to JSON.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1012,"en":"Custom types cannot be represented in JSON Schema","keys":"(sentence)","count":1,"sentence":true}
+{"id":1013,"en":"Transforms cannot be represented in JSON Schema","keys":"(sentence)","count":1,"sentence":true}
+{"id":1014,"en":"Dynamic catch values are not supported in JSON Schema","keys":"(sentence)","count":1,"sentence":true}
+{"id":1015,"en":"MakeLine2D: matrix must be a 3x3 or 4x4 matrix","keys":"(sentence)","count":1,"sentence":true}
+{"id":1016,"en":"MakePath2D: matrix must be a 3x3 or 4x4 matrix","keys":"(sentence)","count":1,"sentence":true}
+{"id":1017,"en":"Angular gradients are not supported in SVG export","keys":"(sentence)","count":1,"sentence":true}
+{"id":1018,"en":"Already attached to a prototype!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1019,"en":"Must be attached to a SceneGraph to layout text!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1020,"en":"Must be attached to a SceneGraph to query visual bounds!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1021,"en":"Must be attached to a SceneGraph to query snap points!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1022,"en":"Fredericka the Great","keys":"(sentence)","count":1,"sentence":true}
+{"id":1023,"en":"Waiting for the Sunrise","keys":"(sentence)","count":1,"sentence":true}
+{"id":1024,"en":"Invalid string. Length must be a multiple of 4","keys":"(sentence)","count":1,"sentence":true}
+{"id":1025,"en":"Unable to create a sufrace from skia.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1026,"en":"Unable to create the content surface from skia.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1027,"en":"Cannot render more than 1 nodes in upright pose","keys":"(sentence)","count":1,"sentence":true}
+{"id":1028,"en":"Export bounding box is invalid.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1029,"en":"Unable to encode the image during export.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1030,"en":"Missing shader status in Skia renderer:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1031,"en":"Missing stretch mode in Skia renderer:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1032,"en":"Missing image asset status in Skia renderer:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1033,"en":"Missing fill type in Skia renderer:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1034,"en":"PDF is not a Skia image format","keys":"(sentence)","count":1,"sentence":true}
+{"id":1035,"en":"IconFontNode has no manager","keys":"(sentence)","count":1,"sentence":true}
+{"id":1036,"en":"StickyNode: No manager available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1037,"en":"Prompt copied to clipboard","keys":"(sentence)","count":1,"sentence":true}
+{"id":1038,"en":"Design another variation of the selected frames, but make it inspired. Approach it like a thoughtful product designer: identify a relevant source of inspiration, it must be relevant to the project. Then research it, dissect it and use insights to inform the design, it's up to you how. Keep the final outcome as simple and clean as possible. Important: Use the existing style guide from the original design. Do not request or create a new one. Feel free to reuse the same images from the original design or create new if you feel like it.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1039,"en":"Design another variation of the selected frames, but make it inspired. Approach it like a thoughtful product designer: identify a relevant source of inspiration, it must be relevant to the project. Then research it, dissect it and use insights to inform the design, it's up to you how. Keep the final outcome as simple and clean as possible. Important: Request a new style guide from Pencil for this variation. Do not use the style guide from the original design. Feel free to reuse the same images from the original design or create new if you feel like it.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1040,"en":"Look at the selected frames. Come up with a new color palette and apply it to the design. Create a new design for it.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1041,"en":"Look at the selected frames. Switch the typography to explore a new typographic direction. Create a new design for it.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1042,"en":"Surprise me! Iterate on the selected frames, think about its structure and get inspired. Come up with an idea for an alternative design that will be significantly improved.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1043,"en":"Invalid clipboard data structure","keys":"(sentence)","count":1,"sentence":true}
+{"id":1044,"en":"Invalid property clipboard data structure","keys":"(sentence)","count":1,"sentence":true}
+{"id":1045,"en":"TextToolState: Tool changed away from text, transitioning to Idle.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1046,"en":"Random bytes length must be >= 16","keys":"(sentence)","count":1,"sentence":true}
+{"id":1047,"en":"Failed to convert legacy node with data","keys":"(sentence)","count":1,"sentence":true}
+{"id":1048,"en":"Node data must be an object","keys":"(sentence)","count":1,"sentence":true}
+{"id":1049,"en":"Failed to parse fonts","keys":"(sentence)","count":1,"sentence":true}
+{"id":1050,"en":"Scene loaded successfully.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1051,"en":"Error loading scene graph:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1052,"en":"Some problems were fixed automatically","keys":"(sentence)","count":1,"sentence":true}
+{"id":1053,"en":"Document had duplicate IDs","keys":"(sentence)","count":1,"sentence":true}
+{"id":1054,"en":"Some invalid data was skipped while opening this document","keys":"(sentence)","count":1,"sentence":true}
+{"id":1055,"en":"Descendants must be an object!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1056,"en":"Node has no prototype!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1057,"en":"Failed to create empty path for missing icon","keys":"(sentence)","count":1,"sentence":true}
+{"id":1058,"en":"Objects inside a component instance cannot be used as components!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1059,"en":"Expected hex digits after '#'","keys":"(sentence)","count":1,"sentence":true}
+{"id":1060,"en":"Script must return an array of nodes. Add a 'return [...]' statement at the end of your script.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1061,"en":"Script compile error","keys":"(sentence)","count":1,"sentence":true}
+{"id":1062,"en":"Script has not been compiled","keys":"(sentence)","count":1,"sentence":true}
+{"id":1063,"en":"Script runtime error","keys":"(sentence)","count":1,"sentence":true}
+{"id":1064,"en":"Script must return an array of nodes.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1065,"en":"Reusable nodes are not supported in script outputs.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1066,"en":"Connection nodes are not supported in script outputs.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1067,"en":"Error inserting script children","keys":"(sentence)","count":1,"sentence":true}
+{"id":1068,"en":"Cannot explode a script node without a parent","keys":"(sentence)","count":1,"sentence":true}
+{"id":1069,"en":"Missing @schema version tag","keys":"(sentence)","count":1,"sentence":true}
+{"id":1070,"en":"Rendering SDF without caching!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1071,"en":"FSE accuracy too high","keys":"(sentence)","count":1,"sentence":true}
+{"id":1072,"en":"Must initialize a ByteBuffer with a Uint8Array","keys":"(sentence)","count":1,"sentence":true}
+{"id":1073,"en":"Read array out of bounds","keys":"(sentence)","count":1,"sentence":true}
+{"id":1074,"en":"Outside uint range: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1075,"en":"Expected bigint but got ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1076,"en":"Outside uint64 range: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1077,"en":"Outside int64 range: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1078,"en":"Cannot encode a string containing the null character","keys":"(sentence)","count":1,"sentence":true}
+{"id":1079,"en":"Attempted to parse invalid message","keys":"(sentence)","count":1,"sentence":true}
+{"id":1080,"en":"Missing required field ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1081,"en":"Line Height has percent value that's not 100%","keys":"(sentence)","count":1,"sentence":true}
+{"id":1082,"en":"Select Figma page to import","keys":"(sentence)","count":1,"sentence":true}
+{"id":1083,"en":"The host did not return a file path for an embedded image.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1084,"en":"The page was too large to capture fully — the import is truncated.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1085,"en":"Discarded an invalid embedded image.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1086,"en":"DOM snapshot produced no nodes.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1087,"en":"Error during property paste operation:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1088,"en":"Failed to paste from clipboard.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1089,"en":"Error during paste operation:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1090,"en":"Failed to paste content from clipboard.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1091,"en":"Imported browser selection.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1092,"en":"Error during browser import paste:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1093,"en":"Failed to paste browser import.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1094,"en":"Failed to read clipboard:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1095,"en":"Failed to read clipboard.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1096,"en":"Unknown declarator specifier ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1097,"en":"A switch statement body must start with a case or default label","keys":"(sentence)","count":1,"sentence":true}
+{"id":1098,"en":"No evaluate() evaluator for ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1099,"en":"Preprocessing error: Unknown binary operator ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1100,"en":"Preprocessing error: Unknown unary operator ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1101,"en":"More than one `out` variables are not allowed!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1102,"en":"Must use a single `out vec4` variable!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1103,"en":"The shader must not use anything but gl_FragCoord and uniforms!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1104,"en":"No color output found. Expected `out vec4 <name>` or `gl_FragColor`.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1105,"en":"Unhandled uniform input variant:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1106,"en":"Error during text node creation:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1107,"en":"Failed to parse SVG style attribute","keys":"(sentence)","count":1,"sentence":true}
+{"id":1108,"en":"The root node cannot be serialized!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1109,"en":"Can't restore children of non-instance nodes!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1110,"en":"Unhandled <image> without a clip-path outline","keys":"(sentence)","count":1,"sentence":true}
+{"id":1111,"en":"Per-side border colors are not supported; using the first.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1112,"en":"Degraded performance","keys":"(sentence)","count":1,"sentence":true}
+{"id":1113,"en":"Iterating more on the design…","keys":"(sentence)","count":1,"sentence":true}
+{"id":1114,"en":"This operation was aborted.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1115,"en":"The `strict` option requires a non-zero `interval`","keys":"(sentence)","count":1,"sentence":true}
+{"id":1116,"en":"The `strict` option requires a finite `intervalCap`","keys":"(sentence)","count":1,"sentence":true}
+{"id":1117,"en":"Comma is not permitted after the rest element","keys":"(sentence)","count":1,"sentence":true}
+{"id":1118,"en":"Parenthesized pattern","keys":"(sentence)","count":1,"sentence":true}
+{"id":1119,"en":"Shorthand property assignments are valid only in destructuring patterns","keys":"(sentence)","count":1,"sentence":true}
+{"id":1120,"en":"Yield expression cannot be a default value","keys":"(sentence)","count":1,"sentence":true}
+{"id":1121,"en":"Await expression cannot be a default value","keys":"(sentence)","count":1,"sentence":true}
+{"id":1122,"en":"Using declaration cannot appear in the top level when source type is `script`","keys":"(sentence)","count":1,"sentence":true}
+{"id":1123,"en":"Await using cannot appear outside of async function","keys":"(sentence)","count":1,"sentence":true}
+{"id":1124,"en":"The left-hand side of a for-of loop may not start with 'let'.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1125,"en":"Multiple default clauses","keys":"(sentence)","count":1,"sentence":true}
+{"id":1126,"en":"Illegal newline after throw","keys":"(sentence)","count":1,"sentence":true}
+{"id":1127,"en":"Missing catch or finally clause","keys":"(sentence)","count":1,"sentence":true}
+{"id":1128,"en":"Missing initializer in ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1129,"en":"Complex binding patterns require an initialization value","keys":"(sentence)","count":1,"sentence":true}
+{"id":1130,"en":"Duplicate constructor in the same class","keys":"(sentence)","count":1,"sentence":true}
+{"id":1131,"en":"Constructor can't have get/set modifier","keys":"(sentence)","count":1,"sentence":true}
+{"id":1132,"en":"Classes can't have an element named '#constructor'","keys":"(sentence)","count":1,"sentence":true}
+{"id":1133,"en":"Constructor can't be a generator","keys":"(sentence)","count":1,"sentence":true}
+{"id":1134,"en":"Constructor can't be an async method","keys":"(sentence)","count":1,"sentence":true}
+{"id":1135,"en":"Classes may not have a static property named prototype","keys":"(sentence)","count":1,"sentence":true}
+{"id":1136,"en":"Setter cannot use rest params","keys":"(sentence)","count":1,"sentence":true}
+{"id":1137,"en":"Classes can't have a field named 'constructor'","keys":"(sentence)","count":1,"sentence":true}
+{"id":1138,"en":"Classes can't have a static field named 'prototype'","keys":"(sentence)","count":1,"sentence":true}
+{"id":1139,"en":"A string literal cannot be used as an exported binding without `from`.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1140,"en":"Duplicate attribute key '","keys":"(sentence)","count":1,"sentence":true}
+{"id":1141,"en":"An export name cannot include a lone surrogate.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1142,"en":"Cannot use 'await' as identifier inside an async function","keys":"(sentence)","count":1,"sentence":true}
+{"id":1143,"en":"Object pattern can't contain getter or setter","keys":"(sentence)","count":1,"sentence":true}
+{"id":1144,"en":"Rest elements cannot have a default value","keys":"(sentence)","count":1,"sentence":true}
+{"id":1145,"en":"Only '=' operator can be used for specifying default value.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1146,"en":"Optional chaining cannot appear in left-hand side","keys":"(sentence)","count":1,"sentence":true}
+{"id":1147,"en":"Binding member expression","keys":"(sentence)","count":1,"sentence":true}
+{"id":1148,"en":"Binding parenthesized expression","keys":"(sentence)","count":1,"sentence":true}
+{"id":1149,"en":"Logical expressions and coalesce expressions cannot be mixed. Wrap either by parentheses","keys":"(sentence)","count":1,"sentence":true}
+{"id":1150,"en":"Private identifier can only be left side of binary expression","keys":"(sentence)","count":1,"sentence":true}
+{"id":1151,"en":"Deleting local variable in strict mode","keys":"(sentence)","count":1,"sentence":true}
+{"id":1152,"en":"Private fields can not be deleted","keys":"(sentence)","count":1,"sentence":true}
+{"id":1153,"en":"Optional chaining cannot appear in the callee of new expressions","keys":"(sentence)","count":1,"sentence":true}
+{"id":1154,"en":"Optional chaining cannot appear in the tag of tagged template expressions","keys":"(sentence)","count":1,"sentence":true}
+{"id":1155,"en":"Escape sequence in keyword import","keys":"(sentence)","count":1,"sentence":true}
+{"id":1156,"en":"Trailing comma is not allowed in import()","keys":"(sentence)","count":1,"sentence":true}
+{"id":1157,"en":"The only valid meta property for import is 'import.meta'","keys":"(sentence)","count":1,"sentence":true}
+{"id":1158,"en":"Cannot use 'import.meta' outside a module","keys":"(sentence)","count":1,"sentence":true}
+{"id":1159,"en":"Escape sequence in keyword new","keys":"(sentence)","count":1,"sentence":true}
+{"id":1160,"en":"The only valid meta property for new is 'new.target'","keys":"(sentence)","count":1,"sentence":true}
+{"id":1161,"en":"Bad escape sequence in untagged template literal","keys":"(sentence)","count":1,"sentence":true}
+{"id":1162,"en":"Unterminated template literal","keys":"(sentence)","count":1,"sentence":true}
+{"id":1163,"en":"Illegal 'use strict' directive in function with non-simple parameter list","keys":"(sentence)","count":1,"sentence":true}
+{"id":1164,"en":"Cannot use 'yield' as identifier inside a generator","keys":"(sentence)","count":1,"sentence":true}
+{"id":1165,"en":"Cannot use 'arguments' in class field initializer","keys":"(sentence)","count":1,"sentence":true}
+{"id":1166,"en":"Cannot use keyword 'await' outside an async function","keys":"(sentence)","count":1,"sentence":true}
+{"id":1167,"en":"Invalid regular expression flag","keys":"(sentence)","count":1,"sentence":true}
+{"id":1168,"en":"Duplicate regular expression flag","keys":"(sentence)","count":1,"sentence":true}
+{"id":1169,"en":"Lone quantifier brackets","keys":"(sentence)","count":1,"sentence":true}
+{"id":1170,"en":"Invalid named capture referenced","keys":"(sentence)","count":1,"sentence":true}
+{"id":1171,"en":"Incomplete quantifier","keys":"(sentence)","count":1,"sentence":true}
+{"id":1172,"en":"Duplicate regular expression modifiers","keys":"(sentence)","count":1,"sentence":true}
+{"id":1173,"en":"Invalid regular expression modifiers","keys":"(sentence)","count":1,"sentence":true}
+{"id":1174,"en":"Duplicate capture group name","keys":"(sentence)","count":1,"sentence":true}
+{"id":1175,"en":"Unterminated character class","keys":"(sentence)","count":1,"sentence":true}
+{"id":1176,"en":"Negated character class may contain strings","keys":"(sentence)","count":1,"sentence":true}
+{"id":1177,"en":"Range out of order in character class","keys":"(sentence)","count":1,"sentence":true}
+{"id":1178,"en":"Invalid character in character class","keys":"(sentence)","count":1,"sentence":true}
+{"id":1179,"en":"Escape sequence in keyword ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1180,"en":"Unterminated comment","keys":"(sentence)","count":1,"sentence":true}
+{"id":1181,"en":"Unterminated regular expression","keys":"(sentence)","count":1,"sentence":true}
+{"id":1182,"en":"Numeric separator is not allowed in legacy octal numeric literals","keys":"(sentence)","count":1,"sentence":true}
+{"id":1183,"en":"Numeric separator must be exactly one underscore","keys":"(sentence)","count":1,"sentence":true}
+{"id":1184,"en":"Numeric separator is not allowed at the first of digits","keys":"(sentence)","count":1,"sentence":true}
+{"id":1185,"en":"Numeric separator is not allowed at the last of digits","keys":"(sentence)","count":1,"sentence":true}
+{"id":1186,"en":"Expected number in radix ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1187,"en":"Identifier directly after number","keys":"(sentence)","count":1,"sentence":true}
+{"id":1188,"en":"Code point out of bounds","keys":"(sentence)","count":1,"sentence":true}
+{"id":1189,"en":"Unterminated string constant","keys":"(sentence)","count":1,"sentence":true}
+{"id":1190,"en":"Unterminated template","keys":"(sentence)","count":1,"sentence":true}
+{"id":1191,"en":"Invalid escape sequence in template string","keys":"(sentence)","count":1,"sentence":true}
+{"id":1192,"en":"Octal literal in strict mode","keys":"(sentence)","count":1,"sentence":true}
+{"id":1193,"en":"Bad character escape sequence","keys":"(sentence)","count":1,"sentence":true}
+{"id":1194,"en":"Provide either `input` or `edits`, not both. Use `edits` alone to patch and re-run a failed call.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1195,"en":"First argument of Insert operation must be a string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1196,"en":"Second argument of Insert operation must be an object with node properties!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1197,"en":"Second argument of Insert operation must have a string `type` property!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1198,"en":"First argument of Copy operation must be a string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1199,"en":"Second argument of Copy operation must be a string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1200,"en":"Third argument of Copy operation must be an object with node properties to update!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1201,"en":"First argument of Replace operation must be a string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1202,"en":"Second argument of Replace operation must be an object with node properties!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1203,"en":"First argument of Move operation must be a string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1204,"en":"Second argument of Move operation must be a string if provided!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1205,"en":"Third argument of Move operation must be a number if provided!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1206,"en":"First argument of Delete operation must be a string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1207,"en":"First argument of Update operation must be a string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1208,"en":"Second argument of Update operation must be an object with node properties to update!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1209,"en":"First argument of SetVariables operation must be an object mapping variable names to their definitions!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1210,"en":"Second argument of SetVariables operation must be a boolean if provided!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1211,"en":"First argument of Generate operation must be a string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1212,"en":"First argument of TakeScreenshot operation must be a non-empty array of node id strings!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1213,"en":"First argument of Export operation must be a non-empty array of node id strings!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1214,"en":"Third argument of Export operation must be a non-empty output path string!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1215,"en":"Fourth argument of Export operation must be an options object if provided!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1216,"en":"FindEmptySpace expects an object with width and height properties!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1217,"en":"First argument of Get must be a node id string if provided!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1218,"en":"Second argument of Get must be an options object if provided!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1219,"en":"Reading the whole document without a visitor would return everything! Pass a visitor to collect only what you need (e.g. Get(n => n.name)), or target a specific node.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1220,"en":"No nodes are selected","keys":"(sentence)","count":1,"sentence":true}
+{"id":1221,"en":"CSS Custom Properties and Font Stacks","keys":"(sentence)","count":1,"sentence":true}
+{"id":1222,"en":"Card description goes here","keys":"(sentence)","count":1,"sentence":true}
+{"id":1223,"en":"Finally feel in control","keys":"(sentence)","count":1,"sentence":true}
+{"id":1224,"en":"AI writing assistant","keys":"(sentence)","count":1,"sentence":true}
+{"id":1225,"en":"Thin grid lines and subtle contour marks on a fully transparent background. Line color `[accent.primary]` at 5–15% opacity. Stroke weight 0.5–1px. Uniform spacing at 20–40px intervals. Sparse and precise layout with clean intersections. No text, no labels, no filled shapes, no decorative elements. Output as a seamless overlay layer.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1226,"en":"Sweeping ribbon-like translucent color bands curving and arcing in smooth continuous motions. Use 3–4 accent colors: `[accent.primary]`, `[accent.secondary]`, `[accent.tertiary]`, and optionally a fourth accent tone. Bands overlap with soft dissolving edges where they meet. Each ribbon at 70–90% opacity. Large scale composition cropped at the frame edges. Smooth arcs, no sharp corners. No text, no objects, no noise, no texture overlay. Output as a background fill layer.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1227,"en":"A wide-format digital painting of an outdoor scene — a park or garden setting with [surface elements: grass, paths, trees, flowers] in the foreground, human figures at mid-distance engaged in casual activities [walking, reading, conversing], and [urban/architectural elements: buildings, bridges, skyline] visible in the soft-focus background. Color palette uses `[accent.primary]` for shadow tones, `[accent.secondary]` for vegetation and highlights, `[accent.tertiary]` for sky and atmospheric glow. Painterly brushwork, atmospheric perspective, warm directional lighting from one side. No text, no UI elements, no sharp digital edges.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1228,"en":"A single [natural object: flower, plant, fruit, leaf] rendered in pixel art style on a transparent background. Use an 8x8 or 16x16 pixel grid per element. Color palette limited to 4-8 colors derived from `[accent.primary]`, `[accent.secondary]`, `[accent.tertiary]`, and their tints. Hard pixel edges, no anti-aliasing, no gradients within pixels. The object should be centered and clearly recognizable despite the low-resolution rendering style.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1229,"en":"A set of simple pixel-art icons and geometric shapes on a transparent background, rendered in white at low opacity. Shapes include: small hearts, directional arrows, abstract cross patterns, simple star forms. Each shape is built from square pixels on an 8x8 or 16x16 grid. Scatter irregularly across a wide canvas with generous spacing. No gradients, no anti-aliasing, sharp pixel edges only.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1230,"en":"Thin geometric arcs and straight measurement guide lines with small annotation tick marks on a fully transparent background. Monochrome line color `[accent.primary]` at 10–20% opacity. Stroke weight under 1px. Sparse, asymmetric placement with generous empty space between marks. No text, no labels, no filled shapes, no heavy grids. Output as a seamless overlay layer.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1231,"en":"Call get_guidelines again and fill in all arguments from the options below:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1232,"en":"The screenshot produced no images.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1233,"en":"Could not decode the screenshot image.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1234,"en":"Failed to save the screenshot image.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1235,"en":"Extra agents spawned successfully. Your work is now to finish the last part of the split work. The other agents will finish the rest of the work, DO NOT verify their design!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1236,"en":"Editor not yet set up","keys":"(sentence)","count":1,"sentence":true}
+{"id":1237,"en":"STOP. Do not continue. The user's pen.dev plan usage limit has been reached and all design tools are now blocked.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1238,"en":"You MUST NOT attempt to work around this limit in any way. Do NOT edit, create, or otherwise modify .pen files directly on disk, through the filesystem, shell commands, or any tool other than the pen.dev MCP design tools. Doing so corrupts the document and violates the plan limit. There is no alternative path — the only way to continue is for the user to upgrade.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1239,"en":"End your turn now. Do not call any further tools. Reply to the user with exactly this message and nothing else:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1240,"en":"Failed to import the page!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1241,"en":"Failed to import the screenshot!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1242,"en":"Could not create IPCHost","keys":"(sentence)","count":1,"sentence":true}
+{"id":1243,"en":"Imported onto the canvas.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1244,"en":"Screenshot added to the canvas.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1245,"en":"Starting import-test sweep…","keys":"(sentence)","count":1,"sentence":true}
+{"id":1246,"en":"Browser View controls","keys":"(sentence)","count":1,"sentence":true}
+{"id":1247,"en":"Select an element in the page","keys":"(sentence)","count":1,"sentence":true}
+{"id":1248,"en":"Coding mode: expand the browser over the canvas","keys":"(sentence)","count":1,"sentence":true}
+{"id":1249,"en":"Invalid input to extend: expected a plain object","keys":"(sentence)","count":1,"sentence":true}
+{"id":1250,"en":"Cannot overwrite keys on object schemas containing refinements. Use `.safeExtend()` instead.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1251,"en":"Invalid input to safeExtend: expected a plain object","keys":"(sentence)","count":1,"sentence":true}
+{"id":1252,"en":"Cannot mix number and bigint in multiple_of check.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1253,"en":"Integers must be within the safe integer range.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1254,"en":"No matching discriminator","keys":"(sentence)","count":1,"sentence":true}
+{"id":1255,"en":"Async schemas not supported in object keys currently","keys":"(sentence)","count":1,"sentence":true}
+{"id":1256,"en":"Cannot create literal schema with no valid values","keys":"(sentence)","count":1,"sentence":true}
+{"id":1257,"en":"Undefined cannot be represented in JSON Schema","keys":"(sentence)","count":1,"sentence":true}
+{"id":1258,"en":"BigInt literals cannot be represented in JSON Schema","keys":"(sentence)","count":1,"sentence":true}
+{"id":1259,"en":"This schema contains multiple valid literal values. Use `.values` instead.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1260,"en":"Path parameters are required but not provided","keys":"(sentence)","count":1,"sentence":true}
+{"id":1261,"en":"Query parameters are required but not provided","keys":"(sentence)","count":1,"sentence":true}
+{"id":1262,"en":"File name is required","keys":"(sentence)","count":1,"sentence":true}
+{"id":1263,"en":"File size must be a positive integer","keys":"(sentence)","count":1,"sentence":true}
+{"id":1264,"en":"File type is required","keys":"(sentence)","count":1,"sentence":true}
+{"id":1265,"en":"First argument must be a string","keys":"(sentence)","count":1,"sentence":true}
+{"id":1266,"en":"End of comment missing","keys":"(sentence)","count":1,"sentence":true}
+{"id":1267,"en":"Expected `jsxDEV` in options when `development: true`","keys":"(sentence)","count":1,"sentence":true}
+{"id":1268,"en":"Expected `jsx` in production options","keys":"(sentence)","count":1,"sentence":true}
+{"id":1269,"en":"Expected `jsxs` in production options","keys":"(sentence)","count":1,"sentence":true}
+{"id":1270,"en":"Cannot parse `style` attribute","keys":"(sentence)","count":1,"sentence":true}
+{"id":1271,"en":"Cannot handle MDX estrees without `createEvaluater`","keys":"(sentence)","count":1,"sentence":true}
+{"id":1272,"en":"Cannot access index `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1273,"en":"Cannot close document, a token (`","keys":"(sentence)","count":1,"sentence":true}
+{"id":1274,"en":"Expected function, string, or object as test","keys":"(sentence)","count":1,"sentence":true}
+{"id":1275,"en":"Expected function as last argument, not ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1276,"en":"The URL must be of scheme file","keys":"(sentence)","count":1,"sentence":true}
+{"id":1277,"en":"File URL path must not include encoded / characters","keys":"(sentence)","count":1,"sentence":true}
+{"id":1278,"en":"Expected usable value, not `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1279,"en":"Expected usable value but received an empty preset, which is probably a mistake: presets typically come with `plugins` and sometimes with `settings`, but this has neither","keys":"(sentence)","count":1,"sentence":true}
+{"id":1280,"en":"Expected node, got `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1281,"en":"Expected find and replace tuple or list of tuples","keys":"(sentence)","count":1,"sentence":true}
+{"id":1282,"en":"Cannot serialize code with `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1283,"en":"Cannot serialize title with `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1284,"en":"Cannot serialize emphasis with `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1285,"en":"Cannot serialize items with `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1286,"en":"Cannot serialize rules with `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1287,"en":"Cannot serialize strong with `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1288,"en":"Cannot serialize rules with repetition `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1289,"en":"Cannot call an event handler while rendering.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1290,"en":"Sidecar: could not `read` from an `assigned` medium. `read` could be used only with `useMedium`.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1291,"en":"Sidecar: please provide `sideCar` property to import the right car","keys":"(sentence)","count":1,"sentence":true}
+{"id":1292,"en":"Sidecar medium not found","keys":"(sentence)","count":1,"sentence":true}
+{"id":1293,"en":"If you continue, the snapshot ZIP will be incomplete and may not reopen correctly on another machine.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1294,"en":"Upload to storage failed","keys":"(sentence)","count":1,"sentence":true}
+{"id":1295,"en":"Snapshot preparation failed","keys":"(sentence)","count":1,"sentence":true}
+{"id":1296,"en":"Failed to gather snapshot dependencies.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1297,"en":"Gathering dependencies...","keys":"(sentence)","count":1,"sentence":true}
+{"id":1298,"en":"Snapshot is a frozen state of your design file.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1299,"en":"Anyone with the link can see it and download the .pen file.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1300,"en":"Confirm deleting the share link","keys":"(sentence)","count":1,"sentence":true}
+{"id":1301,"en":"Try sharing again so recipients can open the design.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1302,"en":"Snapshot shared in workspace","keys":"(sentence)","count":1,"sentence":true}
+{"id":1303,"en":"Your current workspace","keys":"(sentence)","count":1,"sentence":true}
+{"id":1304,"en":"Keep the link and update the snapshot in the original workspace.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1305,"en":"Create a new link and move the snapshot to your current workspace. The old link will stop working.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1306,"en":"Snapshot created. Link copied to your clipboard.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1307,"en":"Link copied to your clipboard","keys":"(sentence)","count":1,"sentence":true}
+{"id":1308,"en":"Failed to copy share link","keys":"(sentence)","count":1,"sentence":true}
+{"id":1309,"en":"Snapshot document path is not available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1310,"en":"Still checking share link…","keys":"(sentence)","count":1,"sentence":true}
+{"id":1311,"en":"Snapshot is not available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1312,"en":"No stored share link found for this document. Create a new share link first.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1313,"en":"Share link is not available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1314,"en":"Wait for the upload to finish before stopping sharing","keys":"(sentence)","count":1,"sentence":true}
+{"id":1315,"en":"This file is no longer shared.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1316,"en":"Failed to stop sharing","keys":"(sentence)","count":1,"sentence":true}
+{"id":1317,"en":"Failed to move share","keys":"(sentence)","count":1,"sentence":true}
+{"id":1318,"en":"Previous share link is no longer available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1319,"en":"A share upload is already in progress","keys":"(sentence)","count":1,"sentence":true}
+{"id":1320,"en":"No session token available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1321,"en":"Failed to read offlineSince","keys":"(sentence)","count":1,"sentence":true}
+{"id":1322,"en":"Unable to import image from URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":1323,"en":"Failed to import file:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1324,"en":"Failed to import files.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1325,"en":"Remote asset import unavailable:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1326,"en":"Remote asset import skipped:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1327,"en":"SharedDocumentProvider requires a share token.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1328,"en":"Failed to parse config from localStorage:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1329,"en":"After checking the editor state, picking the 'Mobile App' guide and creating 4 placeholder nodes for the screens on the canvas, I'm going to use the 'spawn_agents' tool to split the work up between 3 newly spawned designer agents and this session creating each creating one of the screens.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1330,"en":"Implement the sign up screen for an iOS bank app. Use the 'Mobile App' guide","keys":"(sentence)","count":1,"sentence":true}
+{"id":1331,"en":"WebMCP is not available in this browser.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1332,"en":"You're pasting reusable components from a Pencil library:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1333,"en":"Failed to find libraries","keys":"(sentence)","count":1,"sentence":true}
+{"id":1334,"en":"EyeDropper API not supported in this browser","keys":"(sentence)","count":1,"sentence":true}
+{"id":1335,"en":"Select asset export mode","keys":"(sentence)","count":1,"sentence":true}
+{"id":1336,"en":"Select code export format","keys":"(sentence)","count":1,"sentence":true}
+{"id":1337,"en":"Replacement string cannot contain reserved filename characters","keys":"(sentence)","count":1,"sentence":true}
+{"id":1338,"en":"Export to image failed","keys":"(sentence)","count":1,"sentence":true}
+{"id":1339,"en":"Failed to import Goodies asset:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1340,"en":"Unknown goodie kind:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1341,"en":"Unknown goodies section:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1342,"en":"Style guide copied to clipboard. Paste it into the agent chat.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1343,"en":"Failed to insert goodie:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1344,"en":"Fill copied to clipboard","keys":"(sentence)","count":1,"sentence":true}
+{"id":1345,"en":"Failed to copy fill to clipboard","keys":"(sentence)","count":1,"sentence":true}
+{"id":1346,"en":"Failed to copy shader fill:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1347,"en":"Failed to import file.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1348,"en":"Failed to import shader.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1349,"en":"Couldn't load the shader.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1350,"en":"This shader has no image input.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1351,"en":"Couldn't use this shader.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1352,"en":"Zero-sized element, this should not happen","keys":"(sentence)","count":1,"sentence":true}
+{"id":1353,"en":"Upward scrolling compensation","keys":"(sentence)","count":1,"sentence":true}
+{"id":1354,"en":"Failed to explode script to frame","keys":"(sentence)","count":1,"sentence":true}
+{"id":1355,"en":"Unknown layer type for icon:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1356,"en":"Name copied to clipboard","keys":"(sentence)","count":1,"sentence":true}
+{"id":1357,"en":"Expected node, nodes, or string, got `","keys":"(sentence)","count":1,"sentence":true}
+{"id":1358,"en":"Parser was already resumed","keys":"(sentence)","count":1,"sentence":true}
+{"id":1359,"en":"Download diagram as SVG","keys":"(sentence)","count":1,"sentence":true}
+{"id":1360,"en":"Download diagram as PNG","keys":"(sentence)","count":1,"sentence":true}
+{"id":1361,"en":"Download diagram as MMD","keys":"(sentence)","count":1,"sentence":true}
+{"id":1362,"en":"Copy table as Markdown","keys":"(sentence)","count":1,"sentence":true}
+{"id":1363,"en":"Download table as CSV","keys":"(sentence)","count":1,"sentence":true}
+{"id":1364,"en":"Download table as Markdown","keys":"(sentence)","count":1,"sentence":true}
+{"id":1365,"en":"You're about to visit an external website.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1366,"en":"Clipboard API not available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1367,"en":"Failed to create 2D canvas context for PNG export","keys":"(sentence)","count":1,"sentence":true}
+{"id":1368,"en":"Mermaid plugin not available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1369,"en":"SVG not found. Please wait for the diagram to render.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1370,"en":"Mermaid plugin not available. Please add the mermaid plugin to enable diagram rendering.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1371,"en":"Control panel for a humanoid robotics factory floor","keys":"(sentence)","count":1,"sentence":true}
+{"id":1372,"en":"Warm minimal booking site for a Lisbon coworking space","keys":"(sentence)","count":1,"sentence":true}
+{"id":1373,"en":"Playful ordering app for matcha cakes","keys":"(sentence)","count":1,"sentence":true}
+{"id":1374,"en":"Retro-futuristic landing page for a private space tourism company","keys":"(sentence)","count":1,"sentence":true}
+{"id":1375,"en":"Editorial portfolio for an avant-garde fashion photographer","keys":"(sentence)","count":1,"sentence":true}
+{"id":1376,"en":"Cozy mobile app for tracking houseplants and watering schedules","keys":"(sentence)","count":1,"sentence":true}
+{"id":1377,"en":"High-contrast realtime trading terminal","keys":"(sentence)","count":1,"sentence":true}
+{"id":1378,"en":"Soft neumorphic meditation app inspired by Nordic winters","keys":"(sentence)","count":1,"sentence":true}
+{"id":1379,"en":"Vintage ticketing site for an independent arthouse cinema","keys":"(sentence)","count":1,"sentence":true}
+{"id":1380,"en":"Clean SaaS dashboard for a solar energy monitoring startup","keys":"(sentence)","count":1,"sentence":true}
+{"id":1381,"en":"Bold magazine-style blog for urban skateboarding culture","keys":"(sentence)","count":1,"sentence":true}
+{"id":1382,"en":"Elegant reservation app for a Michelin-star sushi omakase","keys":"(sentence)","count":1,"sentence":true}
+{"id":1383,"en":"Invalid input for Fragment.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1384,"en":"Invalid input for Mark.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1385,"en":"Invalid input for Slice.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1386,"en":"Removing non-flat range","keys":"(sentence)","count":1,"sentence":true}
+{"id":1387,"en":"Inserted content deeper than insertion position","keys":"(sentence)","count":1,"sentence":true}
+{"id":1388,"en":"Inconsistent open depths","keys":"(sentence)","count":1,"sentence":true}
+{"id":1389,"en":"There is no position before the top-level node","keys":"(sentence)","count":1,"sentence":true}
+{"id":1390,"en":"There is no position after the top-level node","keys":"(sentence)","count":1,"sentence":true}
+{"id":1391,"en":"Called contentMatchAt on a node with invalid content","keys":"(sentence)","count":1,"sentence":true}
+{"id":1392,"en":"Invalid input for Node.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1393,"en":"Invalid mark data for Node.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1394,"en":"Empty text nodes are not allowed","keys":"(sentence)","count":1,"sentence":true}
+{"id":1395,"en":"Expected number, got '","keys":"(sentence)","count":1,"sentence":true}
+{"id":1396,"en":"Unclosed braced range","keys":"(sentence)","count":1,"sentence":true}
+{"id":1397,"en":"No node type or group '","keys":"(sentence)","count":1,"sentence":true}
+{"id":1398,"en":"Missing closing paren","keys":"(sentence)","count":1,"sentence":true}
+{"id":1399,"en":"Mixing inline and block content","keys":"(sentence)","count":1,"sentence":true}
+{"id":1400,"en":"Only non-generatable nodes (","keys":"(sentence)","count":1,"sentence":true}
+{"id":1401,"en":"No value supplied for attribute ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1402,"en":"NodeType.create can't construct text nodes","keys":"(sentence)","count":1,"sentence":true}
+{"id":1403,"en":"Schema is missing its top node type ('","keys":"(sentence)","count":1,"sentence":true}
+{"id":1404,"en":"Every schema needs a 'text' type","keys":"(sentence)","count":1,"sentence":true}
+{"id":1405,"en":"The text node type should not have attributes","keys":"(sentence)","count":1,"sentence":true}
+{"id":1406,"en":"Multiple linebreak nodes defined","keys":"(sentence)","count":1,"sentence":true}
+{"id":1407,"en":"Linebreak replacement nodes must be inline leaf nodes","keys":"(sentence)","count":1,"sentence":true}
+{"id":1408,"en":"Node type from different schema used (","keys":"(sentence)","count":1,"sentence":true}
+{"id":1409,"en":"Unknown mark type: '","keys":"(sentence)","count":1,"sentence":true}
+{"id":1410,"en":"Content hole not allowed in a leaf node spec","keys":"(sentence)","count":1,"sentence":true}
+{"id":1411,"en":"Invalid array passed to renderSpec","keys":"(sentence)","count":1,"sentence":true}
+{"id":1412,"en":"Using an array from an attribute object as a DOM spec. This may be an attempted cross site scripting attack.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1413,"en":"Content hole must be the only child of its parent node","keys":"(sentence)","count":1,"sentence":true}
+{"id":1414,"en":"Multiple content holes","keys":"(sentence)","count":1,"sentence":true}
+{"id":1415,"en":"Invalid input for Step.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1416,"en":"Duplicate use of step JSON ID ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1417,"en":"Invalid input for AddMarkStep.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1418,"en":"Invalid input for RemoveMarkStep.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1419,"en":"No node at mark step's position","keys":"(sentence)","count":1,"sentence":true}
+{"id":1420,"en":"Invalid input for AddNodeMarkStep.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1421,"en":"Invalid input for RemoveNodeMarkStep.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1422,"en":"Structure replace would overwrite content","keys":"(sentence)","count":1,"sentence":true}
+{"id":1423,"en":"Invalid input for ReplaceStep.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1424,"en":"Structure gap-replace would overwrite content","keys":"(sentence)","count":1,"sentence":true}
+{"id":1425,"en":"Gap is not a flat range","keys":"(sentence)","count":1,"sentence":true}
+{"id":1426,"en":"Content does not fit in gap","keys":"(sentence)","count":1,"sentence":true}
+{"id":1427,"en":"Invalid input for ReplaceAroundStep.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1428,"en":"Wrapper type given to Transform.wrap does not form valid content of its parent wrapper","keys":"(sentence)","count":1,"sentence":true}
+{"id":1429,"en":"Type given to setBlockType should be a textblock","keys":"(sentence)","count":1,"sentence":true}
+{"id":1430,"en":"No node at given position","keys":"(sentence)","count":1,"sentence":true}
+{"id":1431,"en":"Invalid content for node type ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1432,"en":"No node at attribute step's position","keys":"(sentence)","count":1,"sentence":true}
+{"id":1433,"en":"Invalid input for AttrStep.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1434,"en":"Invalid input for DocAttrStep.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1435,"en":"Invalid input for Selection.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1436,"en":"Duplicate use of selection JSON ID ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1437,"en":"TextSelection endpoint not pointing into a node with inline content (","keys":"(sentence)","count":1,"sentence":true}
+{"id":1438,"en":"Invalid input for TextSelection.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1439,"en":"Invalid input for NodeSelection.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1440,"en":"Selection passed to setSelection must point at the current document","keys":"(sentence)","count":1,"sentence":true}
+{"id":1441,"en":"Adding different instances of a keyed plugin (","keys":"(sentence)","count":1,"sentence":true}
+{"id":1442,"en":"Applying a mismatched transaction","keys":"(sentence)","count":1,"sentence":true}
+{"id":1443,"en":"The JSON fields `doc` and `selection` are reserved","keys":"(sentence)","count":1,"sentence":true}
+{"id":1444,"en":"Invalid input for EditorState.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1445,"en":"Required config field 'schema' missing","keys":"(sentence)","count":1,"sentence":true}
+{"id":1446,"en":"Text must be rendered as a DOM text node","keys":"(sentence)","count":1,"sentence":true}
+{"id":1447,"en":"ProseMirror expects the CSS white-space property to be set, preferably to 'pre-wrap'. It is recommended to load style/prosemirror.css from the prosemirror-view package.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1448,"en":"DOM position not inside the editor","keys":"(sentence)","count":1,"sentence":true}
+{"id":1449,"en":"Plugins passed directly to the view must not have a state component","keys":"(sentence)","count":1,"sentence":true}
+{"id":1450,"en":"Unrecognized modifier name: ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1451,"en":"Invalid input for GapCursor.fromJSON","keys":"(sentence)","count":1,"sentence":true}
+{"id":1452,"en":"SSR detected. `immediatelyRender` has been set to false to avoid hydration mismatches","keys":"(sentence)","count":1,"sentence":true}
+{"id":1453,"en":"Please use the NodeViewWrapper component for your node view.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1454,"en":"Tiptap: An editor instance is required. Pass a non-null `editor` prop.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1455,"en":"No session credentials available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1456,"en":"Failed to load workspaces","keys":"(sentence)","count":1,"sentence":true}
+{"id":1457,"en":"Failed to download file from signed URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":1458,"en":"Add from workspace...","keys":"(sentence)","count":1,"sentence":true}
+{"id":1459,"en":"Explore various layout directions while preserving visual style in each iteration.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1460,"en":"Could not get canvas context","keys":"(sentence)","count":1,"sentence":true}
+{"id":1461,"en":"Failed to load image","keys":"(sentence)","count":1,"sentence":true}
+{"id":1462,"en":"Failed to update skills","keys":"(sentence)","count":1,"sentence":true}
+{"id":1463,"en":"Failed to read file as text","keys":"(sentence)","count":1,"sentence":true}
+{"id":1464,"en":"Getting editor state","keys":"(sentence)","count":1,"sentence":true}
+{"id":1465,"en":"The agent wants to use","keys":"(sentence)","count":1,"sentence":true}
+{"id":1466,"en":"Oops, something went wrong with your coding agent!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1467,"en":"Dismiss status notice","keys":"(sentence)","count":1,"sentence":true}
+{"id":1468,"en":"Agent panel controls","keys":"(sentence)","count":1,"sentence":true}
+{"id":1469,"en":"Design generation in progress…","keys":"(sentence)","count":1,"sentence":true}
+{"id":1470,"en":"Drop an PNG/JPG, DESIGN.md or any text file here or attach via","keys":"(sentence)","count":1,"sentence":true}
+{"id":1471,"en":"Failed to export slides to PDF","keys":"(sentence)","count":1,"sentence":true}
+{"id":1472,"en":"Export selected slides (","keys":"(sentence)","count":1,"sentence":true}
+{"id":1473,"en":"Error loading usage:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1474,"en":"How to import from Figma","keys":"(sentence)","count":1,"sentence":true}
+{"id":1475,"en":"Missing plugin? gsap.registerPlugin()","keys":"(sentence)","count":1,"sentence":true}
+{"id":1476,"en":"Variables panel controls and drag handle","keys":"(sentence)","count":1,"sentence":true}
+{"id":1477,"en":"Please enter your email address","keys":"(sentence)","count":1,"sentence":true}
+{"id":1478,"en":"Failed to send code. Please try again.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1479,"en":"Failed to resend code. Please try again.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1480,"en":"Please enter the activation code","keys":"(sentence)","count":1,"sentence":true}
+{"id":1481,"en":"Failed to verify code. Please try again.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1482,"en":"Please enter your password","keys":"(sentence)","count":1,"sentence":true}
+{"id":1483,"en":"Failed to sign in. Please try again.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1484,"en":"Display name is required","keys":"(sentence)","count":1,"sentence":true}
+{"id":1485,"en":"Your profile was already completed from another session. Loading your existing profile...","keys":"(sentence)","count":1,"sentence":true}
+{"id":1486,"en":"We sent a 6-digit code to ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1487,"en":"It might take a few minutes to arrive. The code is valid for 1hr.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1488,"en":"Thanks for your patience. Also check your spam.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1489,"en":"You can customize your profile now or do it later. Claiming your unique username now is a smart move, though!","keys":"(sentence)","count":1,"sentence":true}
+{"id":1490,"en":"You can request another code in ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1491,"en":"By using this product you agree to our","keys":"(sentence)","count":1,"sentence":true}
+{"id":1492,"en":"Prompt copied. Paste it in the agent input.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1493,"en":"Failed to copy prompt to clipboard:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1494,"en":"Failed to copy prompt to clipboard","keys":"(sentence)","count":1,"sentence":true}
+{"id":1495,"en":"Don't show example prompts again","keys":"(sentence)","count":1,"sentence":true}
+{"id":1496,"en":"Send message to agent","keys":"(sentence)","count":1,"sentence":true}
+{"id":1497,"en":"How to export your design to code:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1498,"en":"Pencil app has to be launched first, after that open Claude Code in your terminal by running","keys":"(sentence)","count":1,"sentence":true}
+{"id":1499,"en":"Check if you can see Pencil MCP tools by running command","keys":"(sentence)","count":1,"sentence":true}
+{"id":1500,"en":"Claude Code MCP setup showing Pencil MCP connected","keys":"(sentence)","count":1,"sentence":true}
+{"id":1501,"en":"Snapshot not found or no longer available","keys":"(sentence)","count":1,"sentence":true}
+{"id":1502,"en":"Snapshot service did not return JSON with a signed download URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":1503,"en":"Snapshot service did not return a signed download URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":1504,"en":"Snapshot server took too long to respond","keys":"(sentence)","count":1,"sentence":true}
+{"id":1505,"en":"Failed to download snapshot","keys":"(sentence)","count":1,"sentence":true}
+{"id":1506,"en":"Cannot find module '","keys":"(sentence)","count":1,"sentence":true}
+{"id":1507,"en":"Invalid base64 input, it looks like a data url.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1508,"en":"Invalid base64 input, bad content length.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1509,"en":"Bug : uncompressed data size mismatch","keys":"(sentence)","count":1,"sentence":true}
+{"id":1510,"en":"The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1511,"en":"Corrupted zip : CRC32 mismatch","keys":"(sentence)","count":1,"sentence":true}
+{"id":1512,"en":"JSZip can't accept a stream when loading a zip file.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1513,"en":"Nodejs stream input adapter for ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1514,"en":"This method has been removed in JSZip 3.0, please check the upgrade guide.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1515,"en":"No output type specified.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1516,"en":"End of data reached (data length = ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1517,"en":"DataLengthProbe for ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1518,"en":"Bug : can't construct the Blob.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1519,"en":"Can't read the data of '","keys":"(sentence)","count":1,"sentence":true}
+{"id":1520,"en":"Corrupted zip or bug: unexpected signature (","keys":"(sentence)","count":1,"sentence":true}
+{"id":1521,"en":"Multi-volumes zip are not supported","keys":"(sentence)","count":1,"sentence":true}
+{"id":1522,"en":"Corrupted zip or bug: expected ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1523,"en":"Corrupted zip: can't find end of central directory","keys":"(sentence)","count":1,"sentence":true}
+{"id":1524,"en":"Can't find end of central directory : is this a zip file ? If it is, see https://stuk.github.io/jszip/documentation/howto/read_zip.html","keys":"(sentence)","count":1,"sentence":true}
+{"id":1525,"en":"Corrupted zip: can't find the ZIP64 end of central directory locator","keys":"(sentence)","count":1,"sentence":true}
+{"id":1526,"en":"Corrupted zip: can't find the ZIP64 end of central directory","keys":"(sentence)","count":1,"sentence":true}
+{"id":1527,"en":"Corrupted zip: missing ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1528,"en":"Bug or corrupted zip : didn't get enough information from the central directory (compressedSize === -1 || uncompressedSize === -1)","keys":"(sentence)","count":1,"sentence":true}
+{"id":1529,"en":"Corrupted zip : compression ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1530,"en":"Encrypted zip are not supported","keys":"(sentence)","count":1,"sentence":true}
+{"id":1531,"en":"Cannot resolve promise with itself","keys":"(sentence)","count":1,"sentence":true}
+{"id":1532,"en":"Snapshot archive is invalid","keys":"(sentence)","count":1,"sentence":true}
+{"id":1533,"en":"Snapshot archive is empty","keys":"(sentence)","count":1,"sentence":true}
+{"id":1534,"en":"Snapshot is missing a root .pen or .lib.pen file","keys":"(sentence)","count":1,"sentence":true}
+{"id":1535,"en":"Snapshot has multiple root .pen or .lib.pen files","keys":"(sentence)","count":1,"sentence":true}
+{"id":1536,"en":"Please enter a valid URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":1537,"en":"Allowed origin must be a valid URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":1538,"en":"Missing share token in URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":1539,"en":"Snapshot import from URL is not available in this environment.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1540,"en":"Please paste a snapshot URL","keys":"(sentence)","count":1,"sentence":true}
+{"id":1541,"en":"Choose a folder to extract the snapshot into","keys":"(sentence)","count":1,"sentence":true}
+{"id":1542,"en":"Choose the folder where the snapshot archive will be unpacked.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1543,"en":"Sign in to the Moonshot AI platform and create a key in the API Keys console.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1544,"en":"Sign in to kimi.com with a Kimi For Coding subscription and copy the API key from the coding page.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1545,"en":"Sign in to the DeepSeek platform and create a key on the API Keys page.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1546,"en":"Sign in to OpenRouter and create a key under Settings → Keys.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1547,"en":"Sign in to the Fireworks AI dashboard and create a key under Settings → API Keys.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1548,"en":"Sign in to Together AI and create a key under Settings → API Keys.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1549,"en":"Sign in to OpenCode Zen, add billing details, and copy your API key.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1550,"en":"Sign in to OpenCode Zen, subscribe to the Go plan, and copy your API key.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1551,"en":"Sign in to the xAI console and create an API key.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1552,"en":"Sign in to Z.AI and create a key on the API Keys page.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1553,"en":"Grok 4.6 · Composer 2.5 and other models","keys":"(sentence)","count":1,"sentence":true}
+{"id":1554,"en":"Multiple models*, e.g. DeepSeek V4 Pro · Kimi K2.7 Code","keys":"(sentence)","count":1,"sentence":true}
+{"id":1555,"en":"Multiple models*, e.g. Claude Opus 4.8 · Claude Haiku 4.5 · GPT-5.5","keys":"(sentence)","count":1,"sentence":true}
+{"id":1556,"en":"Multiple models*, e.g. Claude Opus 4.8","keys":"(sentence)","count":1,"sentence":true}
+{"id":1557,"en":"Multiple models, e.g. Opus 4.8 · GPT-5.5 · DeepSeek V4 Pro · GLM 5.2 · GLM 5.1","keys":"(sentence)","count":1,"sentence":true}
+{"id":1558,"en":"Multiple models*, e.g. Claude Opus 4.8 · Claude Sonnet 5 · Claude Haiku 4.5","keys":"(sentence)","count":1,"sentence":true}
+{"id":1559,"en":"Open authorization page","keys":"(sentence)","count":1,"sentence":true}
+{"id":1560,"en":"Waiting for authorization…","keys":"(sentence)","count":1,"sentence":true}
+{"id":1561,"en":"Opening your browser…","keys":"(sentence)","count":1,"sentence":true}
+{"id":1562,"en":"Browse for the claude executable","keys":"(sentence)","count":1,"sentence":true}
+{"id":1563,"en":"You're signed in with your Claude account.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1564,"en":"You can set additional variables in","keys":"(sentence)","count":1,"sentence":true}
+{"id":1565,"en":"You're signed in with your ChatGPT account.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1566,"en":"Optional: In addition to the AI design agents on the canvas, you can also connect to ","keys":"(sentence)","count":1,"sentence":true}
+{"id":1567,"en":"Cannot register abstract class","keys":"(sentence)","count":1,"sentence":true}
+{"id":1568,"en":"Blot definition missing tagName","keys":"(sentence)","count":1,"sentence":true}
+{"id":1569,"en":"Attempt to insertAt after block boundaries","keys":"(sentence)","count":1,"sentence":true}
+{"id":1570,"en":"Quill#scrollIntoView() has been deprecated and will be removed in the near future. Please use Quill#scrollSelectionIntoView() instead.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1571,"en":"Attempted to add invalid keyboard binding","keys":"(sentence)","count":1,"sentence":true}
+{"id":1572,"en":"Formula module requires KaTeX.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1573,"en":"Syntax module requires highlight.js. Please include the library on the page before Quill.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1574,"en":"Container required for toolbar","keys":"(sentence)","count":1,"sentence":true}
+{"id":1575,"en":"Minimize offline notice","keys":"(sentence)","count":1,"sentence":true}
+{"id":1576,"en":"You are offline or our servers are unreachable.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1577,"en":"Failed to read file:","keys":"(sentence)","count":1,"sentence":true}
+{"id":1578,"en":"Nothing selected to export","keys":"(sentence)","count":1,"sentence":true}
+{"id":1579,"en":"Starting document load","keys":"(sentence)","count":1,"sentence":true}
+{"id":1580,"en":"Finished document load","keys":"(sentence)","count":1,"sentence":true}
+{"id":1581,"en":"Session revoked (401 from API request)","keys":"(sentence)","count":1,"sentence":true}
+{"id":1582,"en":"Can't edit this document","keys":"(sentence)","count":1,"sentence":true}
+{"id":1583,"en":"PencilEditor is ready, sending initialized message.","keys":"(sentence)","count":1,"sentence":true}
+{"id":1584,"en":"Processing session...","keys":"(sentence)","count":1,"sentence":true}
+{"id":1585,"en":"No session found, login needed","keys":"(sentence)","count":1,"sentence":true}
+{"id":1586,"en":"Session revoked (401 from session-info)","keys":"(sentence)","count":1,"sentence":true}
+{"id":1587,"en":"Failed to fetch session info","keys":"(sentence)","count":1,"sentence":true}
+{"id":1588,"en":"Session verification failed, login needed","keys":"(sentence)","count":1,"sentence":true}
+{"id":1589,"en":"Activation check failed (network error), continuing offline","keys":"(sentence)","count":1,"sentence":true}
+{"id":1590,"en":"Auth v2 detected, performing silent migration...","keys":"(sentence)","count":1,"sentence":true}
+{"id":1591,"en":"Silent migration failed, falling back to old token","keys":"(sentence)","count":1,"sentence":true}
+{"id":1592,"en":"Silent migration error, falling back to old token","keys":"(sentence)","count":1,"sentence":true}
+{"id":1593,"en":"Error getting session","keys":"(sentence)","count":1,"sentence":true}
+{"id":1594,"en":"Loading design file:","keys":"(sentence)","count":1,"sentence":true}
