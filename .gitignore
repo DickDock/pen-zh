@@ -1,6 +1,7 @@
 node_modules/
 extracted/
 win-extracted/
+mac-extracted/
 win-dl/
 build/
 .DS_Store
