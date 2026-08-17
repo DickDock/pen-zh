@@ -25,8 +25,12 @@ for (const c of cands) {
   enMap.set(c.en, { zh: t, sentence: c.sentence, keys: c.keys.split(',') });
 }
 
+// UI 安全前缀：这些位置只做展示（tooltip / React 子节点 / 无障碍标签），
+// 不会是逻辑判断值，替换无副作用。新版 bundle 常把 label/content 换成这些形式。
+const SAFE_PREFIXES = ['title:"', 'children:"', 'children:["', '"aria-label":"'];
+
 let src = fs.readFileSync(inFile, 'utf8');
-let applied = 0, noHit = 0;
+let applied = 0, noHit = 0, safeExtra = 0;
 const noHitList = [];
 for (const [en, v] of enMap) {
   if (v.sentence) {
@@ -44,10 +48,17 @@ for (const [en, v] of enMap) {
       src = src.split(from).join(to);
       hit = true;
     }
+    // key 形式未命中或命中后，再补扫安全前缀位置的残留
+    for (const p of SAFE_PREFIXES) {
+      const from = p + en + '"';
+      if (!src.includes(from)) continue;
+      src = src.split(from).join(p + v.zh + '"');
+      hit = true; safeExtra++;
+    }
     if (hit) applied++; else { noHit++; noHitList.push(en.slice(0, 60)); }
   }
 }
 
 fs.writeFileSync(inFile, src);
-console.error(`已应用: ${applied}, 未命中(该平台 bundle 中不存在): ${noHit}/${enMap.size}`);
+console.error(`已应用: ${applied}, 未命中(该平台 bundle 中不存在): ${noHit}/${enMap.size}, 安全前缀位置补翻: ${safeExtra}`);
 if (noHitList.length) noHitList.forEach(s => console.error('  ✗ ' + s));

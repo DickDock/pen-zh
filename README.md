@@ -38,25 +38,38 @@ Windows 版（`Pen-win-x64.exe`）同样适用，翻译数据完全复用（两�
 字符串一致，实测 875 条全部命中），且**不需要重签名**：
 
 ```powershell
-# 1. 解开 NSIS 安装包（需要 7-Zip），再解里面的 app-64.7z 得到 app 目录
-7z x Pen-win-x64.exe -owin-dl
-7z x win-dl/'$PLUGINSDIR'/app-64.7z -owin-dl/app
+# 0.（可选）备份原包
+cp '/mnt/c/Program Files/Pen/resources/app.asar' backup/app-win.asar.orig
 
-# 2. 提取 Windows 版 asar
-npx asar extract win-dl/app/resources/app.asar win-extracted
+# 1. 从已安装目录直接提取 asar（也可以从安装包解开，见下）
+npx asar extract '/mnt/c/Program Files/Pen/resources/app.asar' win-extracted
 
-# 3. 应用翻译（按「英文原文->中文」映射，与平台无关）+ 主进程补丁
+# 2. 应用翻译（按「英文原文->中文」映射，与平台无关）+ 主进程补丁
 node tools/apply-map.js win-extracted/out/editor/assets/index.js
 node tools/patch-main.js win-extracted
 
-# 4. 重打包（Windows 的 unpack 规则不同）
-node tools/pack-win.js
+# 3. 重打包（Windows 的 unpack 规则不同；参数为原 asar，用于 unpacked 集合校验）
+node tools/pack-win.js '/mnt/c/Program Files/Pen/resources/app.asar'
 
-# 5. 替换到安装目录（通常在 %LOCALAPPDATA%\Programs\Pen\resources\），无需签名
+# 4. 替换到安装目录，无需签名。Program Files 需要提权（会弹 UAC）：
+powershell.exe -Command "Start-Process powershell -Verb RunAs -Wait -ArgumentList \
+  '-NoProfile','-Command','Copy-Item -Force ''<项目>\build\app-win.asar'' ''C:\Program Files\Pen\resources\app.asar'''"
 ```
+
+若 Pen 尚未安装（从 `Pen-win-x64.exe` 起步），先解开 NSIS 安装包得到 app 目录：
+`7z x Pen-win-x64.exe -owin-dl && 7z x win-dl/'$PLUGINSDIR'/app-64.7z -owin-dl/app`。
 
 注：Windows 版 Electron fuses 中 `EnableEmbeddedAsarIntegrityValidation`
 为 Disabled，替换 asar 不会被完整性校验拦截。
+
+### 1.2.4 实测情况（2026-08）
+
+新版 bundle 把部分 `label:"/content:"` 形式换成了 `title:"/children:"/aria-label:"`，
+`apply-map.js` 已加安全前缀回退自动覆盖；另有 `work/patch-extra-124.js` 定点补丁
+处理错误回退值、children 数组文本等 30 处（在 apply-map 之后跑，幂等可重跑）。
+剩余约 85 处英文为逻辑值/枚举/键盘码/数据标识（如 `type==="Group"`、
+`getData("Text")`），属刻意保留，不能翻译。`patch-main.js` 中 4 条 skill
+对话框文案在 1.2.4 已随该功能一起移除。
 
 ## 重签名（关键）
 

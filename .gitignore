@@ -6,7 +6,7 @@ build/
 .DS_Store
 
 # 大二进制：原始备份与构建产物不入库（可由已安装的 app 重新提取）
-backup/app.asar.orig
+backup/*.orig
 backup/app.asar.unpacked.orig/
 work/*.orig
 *.asar
