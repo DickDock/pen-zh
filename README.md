@@ -62,6 +62,18 @@ powershell.exe -Command "Start-Process powershell -Verb RunAs -Wait -ArgumentLis
 注：Windows 版 Electron fuses 中 `EnableEmbeddedAsarIntegrityValidation`
 为 Disabled，替换 asar 不会被完整性校验拦截。
 
+### macOS 版跨平台构建（无 Mac 时）
+
+在 Windows/Linux 上同样可以从官方 dmg 构建 macOS 汉化包（7-Zip 可解 UDIF dmg）：
+
+```bash
+curl -LO https://pen.dev/download/Pen-mac-arm64.dmg
+7z x Pen-mac-arm64.dmg -owin-dl/mac-dmg
+npx asar extract 'win-dl/mac-dmg/Pen 1.2.5-arm64/Pen.app/Contents/Resources/app.asar' extracted
+# 之后照常 apply-map / patch-main（mac bundle 与 Windows 共用同一翻译），
+# 打包: node tools/pack.js <原 asar 路径> extracted
+```
+
 ### 1.2.4 实测情况（2026-08）
 
 新版 bundle 把部分 `label:"/content:"` 形式换成了 `title:"/children:"/aria-label:"`，
